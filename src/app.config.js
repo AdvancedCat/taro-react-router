@@ -1,5 +1,6 @@
 export default defineAppConfig({
   pages: [
+    'pages/react-router-examples/route-objects/index',
     'pages/react-router-examples/background-location/index',
     'pages/react-router-examples/custom-active-link/index',
     'pages/react-router-examples/custom-filter-link/index',
