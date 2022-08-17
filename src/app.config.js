@@ -1,5 +1,6 @@
 export default defineAppConfig({
   pages: [
+    'pages/react-router-examples/auth/index',
     'pages/react-router-examples/basic/index',
     'pages/index/index',
     'pages/history/index',
