@@ -1,125 +1,125 @@
-import React, { Component } from 'react'
+import React, { useState, useEffect } from 'react'
 import { View, Text } from '@tarojs/components'
 import { HashRouter, Routes, Route, Link, useParams, Outlet } from 'react-router-dom'
 import './index.scss'
-
-import { NavBar, Button } from 'tard'
+import { AtButton, AtToast, AtDivider, AtNoticebar } from 'taro-ui'
 
 import Home from '../../components/home'
 import View1 from '../../components/view1'
 import View2 from '../../components/view2'
 import View3 from '../../components/view3'
 
-export default class Index extends Component {
-  state = {
-    tabCur: 0
-  }
+export default function Index() {
+  const [_, setCount] = useState(0)
+  const [isOpenToast, setOpenToast] = useState(false)
+  const [toastText, setToastText] = useState('')
 
-  componentDidMount() {
-    window.addEventListener('popstate', () => {
-      console.log('URL changed!')
+  useEffect(() => {
+    window.addEventListener('hashchange', () => {
+      console.log('hashchange event fired!', window.location.href)
+      // setToastText('hashchange event triggered!')
+      // setOpenToast(true)
+      setCount(c => c+1)
     })
-  }
+  }, [])
 
-  componentDidUpdate() {
-    console.log(window.location.href)
-  }
+  return (
+    <HashRouter>
+      <AtNoticebar>location.href: {window.location.href}</AtNoticebar>
 
-  onLoad(options) {
-    // console.log('onLoad', options)
-  }
+      <AtDivider content="前进回退" />
+      <View className="at-article__p">说明：点击 back / forward 按钮，观察 history 前进回退</View>
 
-  render() {
-    return (
-      <HashRouter>
-        {/* <a></a> */}
-
-        <Button
-          size="normal"
-          type="danger"
+      {/* <View className='btn-group'>
+        <AtButton
+          type="primary"
+          size="small"
           onClick={() => {
             console.log(window.history)
           }}
         >
           打印 history
-        </Button>
-        <Button
+        </AtButton>
+        <AtButton
+          type="secondary"
           size="small"
-          type="warning"
-          onClick={() => {
-            window.history.back()
-          }}
-        >
-          {'<- back'}
-        </Button>
-        <Button
-          size="small"
-          type="warning"
-          onClick={() => {
-            window.history.forward()
-          }}
-        >
-          {'forward ->'}
-        </Button>
-
-        <Button
-          size="normal"
-          type="danger"
           onClick={() => {
             console.log(window.location)
           }}
         >
           打印 location
-        </Button>
+        </AtButton>
+      </View> */}
 
-        <NavBar title="普通路由" />
+      <View className='btn-group'>
+        <AtButton
+          type="primary"
+          size="small"
+          onClick={() => {
+            window.history.back()
+          }}
+        >
+          {'<- back'}
+        </AtButton>
+        <AtButton
+          type="primary"
+          size="small"
+          onClick={() => {
+            window.history.forward()
+          }}
+        >
+          {'forward ->'}
+        </AtButton>
+      </View>
 
-        <View className="drawer-box">
-          <View className="box-item">
-            <Link to="/view1?a=1&b=2">view1</Link>
-          </View>
-          <View className="box-item">
-            <Link to="/view2#a=3&b=4">view2</Link>
-          </View>
-          <View className="box-item">
-            <Link to="/2?a=1&b=2#a=3&b=4">view3</Link>
-          </View>
+      <AtDivider content="Hash" />
+      <View className="at-article__p">说明：点击不同 view ， 页面 href 会发生变化，同时也会触发 hashchange 事件。</View>
+      <View className="drawer-box">
+        <View className="box-item">
+          <Link to="/view1?a=1&b=2">view1</Link>
         </View>
-
-        <View className="line"></View>
-
-        <Routes>
-          <Route index element={<Home />}></Route>
-          <Route path="/view1" element={<View1 />}></Route>
-          <Route path="/view2" element={<View2 />}></Route>
-          <Route path="/:id" element={<View3 />}></Route>
-        </Routes>
-
-        <NavBar title="嵌套路由" />
-        <View className="drawer-box">
-          <View className="box-item">
-            <Link to="invoices">Invoices</Link>
-          </View>
-          <View className="box-item">
-            <Link to="invoices/1234">Invoice1234</Link>
-          </View>
-          <View className="box-item">
-            <Link to="invoices/sent">Sent</Link>
-          </View>
-          <View className="box-item">
-            <Link to="invoices/sent/B">Sent B</Link>
-          </View>
+        <View className="box-item">
+          <Link to="/view2#a=3&b=4">view2</Link>
         </View>
-        <Routes>
-          <Route path="invoices" element={<Invoices />}>
-            <Route index element={<InvoiceIndex />} />
-            <Route path=":invoiceId" element={<Invoice />} />
-            <Route path="sent/*" element={<SentInvoices />} />
-          </Route>
-        </Routes>
-      </HashRouter>
-    )
-  }
+        <View className="box-item">
+          <Link to="/2?a=1&b=2#a=3&b=4">view3</Link>
+        </View>
+      </View>
+
+      <Routes>
+        <Route index element={<Home />}></Route>
+        <Route path="/view1" element={<View1 />}></Route>
+        <Route path="/view2" element={<View2 />}></Route>
+        <Route path="/:id" element={<View3 />}></Route>
+      </Routes>
+
+      <AtDivider content="嵌套路由" />
+
+      <View className="drawer-box">
+        <View className="box-item">
+          <Link to="invoices">Invoices</Link>
+        </View>
+        <View className="box-item">
+          <Link to="invoices/1234">Invoice1234</Link>
+        </View>
+        <View className="box-item">
+          <Link to="invoices/sent">Sent</Link>
+        </View>
+        <View className="box-item">
+          <Link to="invoices/sent/B">Sent B</Link>
+        </View>
+      </View>
+      <Routes>
+        <Route path="invoices" element={<Invoices />}>
+          <Route index element={<InvoiceIndex />} />
+          <Route path=":invoiceId" element={<Invoice />} />
+          <Route path="sent/*" element={<SentInvoices />} />
+        </Route>
+      </Routes>
+
+      <AtToast isOpened={isOpenToast} text={toastText} onClose={() => setOpenToast(false)}></AtToast>
+    </HashRouter>
+  )
 }
 
 function Invoices() {
@@ -149,7 +149,7 @@ function SentInvoices() {
 }
 function SentInvoicesBox() {
   return (
-    <div style={{backgroundColor: 'red'}}>
+    <div style={{ backgroundColor: 'red' }}>
       <Text>SentInvoicesBox</Text>
       <Outlet />
     </div>

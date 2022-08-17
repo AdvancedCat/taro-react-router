@@ -1,5 +1,11 @@
+@import "~taro-ui/dist/style/index.scss";
 
 a {
   color: blue;
   text-decoration: underline;
+}
+
+.btn-group{
+  display: flex;
+  // justify-content: space-around;
 }

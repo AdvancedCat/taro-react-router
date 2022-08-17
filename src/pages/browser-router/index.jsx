@@ -1,10 +1,9 @@
 import React, { Component } from 'react'
-import { View, Text } from '@tarojs/components'
+import { View, Text, Button } from '@tarojs/components'
 import Taro from '@tarojs/taro'
 import { BrowserRouter, Routes, Route, Link, useParams, Outlet, NavLink } from 'react-router-dom'
 import './index.scss'
 
-import { NavBar, Button } from 'tard'
 
 import Home from '../../components/home'
 import View1 from '../../components/view1'
@@ -38,7 +37,6 @@ export default class Index extends Component {
 
     return (
       <BrowserRouter>
-        {/* <a></a> */}
 
         <Button
           size="normal"
@@ -87,7 +85,6 @@ export default class Index extends Component {
           Go to "hash-router" page
         </Button>
 
-        <NavBar title="普通路由" />
 
         <View className="drawer-box">
           <View className="box-item">
@@ -115,7 +112,6 @@ export default class Index extends Component {
           <Route path="/pages/router/index/:id" element={<View3 />}></Route>
         </Routes>
 
-        <NavBar title="嵌套路由" />
         <View className="drawer-box">
           <View className="box-item">
             <Link to="invoices">Invoices</Link>

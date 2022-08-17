@@ -1,6 +1,6 @@
 import { Component, Fragment } from 'react'
-import 'tard/dist/styles/index.less'
 import './app.scss'
+// import { BrowserRouter } from 'react-router-dom'
 
 class App extends Component {
   componentDidMount() {}

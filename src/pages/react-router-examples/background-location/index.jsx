@@ -1,6 +1,7 @@
 import * as React from 'react'
 import { BrowserRouter, Routes, Route, Outlet, Link, useLocation, useNavigate, useParams } from 'react-router-dom'
 import { Dialog } from '@reach/dialog'
+import { AtNoticebar } from 'taro-ui'
 import '@reach/dialog/styles.css'
 
 let IMAGES = [
@@ -48,6 +49,8 @@ function MyPage() {
 
   return (
     <div>
+      <AtNoticebar>该功能暂不支持</AtNoticebar>
+
       <h1>Modal Example</h1>
 
       <p>
