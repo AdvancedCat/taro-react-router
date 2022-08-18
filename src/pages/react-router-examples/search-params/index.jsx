@@ -5,7 +5,7 @@ import { View } from '@tarojs/components'
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter  basename='pages/react-router-examples/search-params/index'>
       <h1>Search Params Example</h1>
 
       <p>

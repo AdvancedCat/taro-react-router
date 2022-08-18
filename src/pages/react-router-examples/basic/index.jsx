@@ -1,5 +1,8 @@
+import { View } from '@tarojs/components'
 import * as React from 'react'
 import { BrowserRouter, Routes, Route, Outlet, Link } from 'react-router-dom'
+import { AtDivider } from "taro-ui";
+import Taro from '@tarojs/taro'
 
 export default function BasicPage() {
 
@@ -9,7 +12,8 @@ export default function BasicPage() {
   }, [])
 
   return (
-    <BrowserRouter>
+    // Taro 在进入页面时 location.pathname 会初始化为页面路径
+    <BrowserRouter basename='pages/react-router-examples/basic/index'>
       <h1>Basic Example</h1>
 
       <p>
@@ -33,6 +37,13 @@ export default function BasicPage() {
           <Route path="*" element={<NoMatch />} />
         </Route>
       </Routes>
+
+      <AtDivider content='页面跳转,状态保留'></AtDivider>
+
+      <View onClick={()=>Taro.navigateTo({url: '/pages/nested-route/index'})}>跳转「嵌套路由」页面</View>
+      <View className="at-article__p">
+        说明：当从下级页面返回该页面时，路由仍保留跳转前的状态。页面的路由状态会在页面 onShow 时恢复。
+      </View>
     </BrowserRouter>
   )
 }
@@ -59,7 +70,7 @@ function Layout() {
         </ul>
       </nav>
 
-      <div style={{margin: '10px 0', border: '2px solid black'}}></div>
+      <AtDivider content=''></AtDivider>
 
       {/* An <Outlet> renders whatever child route is currently active,
           so you can think about this <Outlet> as a placeholder for
