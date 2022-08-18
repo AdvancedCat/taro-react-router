@@ -39,6 +39,7 @@
     "@reach/dialog": "0.16.0",
     "@tarojs/components": "3.5.3",
     "@tarojs/helper": "3.5.3",
+    "@tarojs/mini-runner": "^3.5.3",
     "@tarojs/plugin-framework-react": "3.5.3",
     "@tarojs/plugin-html": "3.5.3",
     "@tarojs/plugin-platform-alipay": "3.5.3",
