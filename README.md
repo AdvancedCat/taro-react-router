@@ -38,3 +38,13 @@ $ pnpm link --global @tarojs/mini-runner
 ```
 
 4. 运行 `npm run dev:weapp`，在微信开发者工具中即可预览效果；
+
+### 测试 webpack5 场景
+
+切换至 `webpack5` 分支，并重新安装依赖:
+
+```bash
+$ pnpm i
+```
+
+观察终端输出的 `Prebundle dependencies:` 列表这种是否包含 `react-router-dom` 提示。
