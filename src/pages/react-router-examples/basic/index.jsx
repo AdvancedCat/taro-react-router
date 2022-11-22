@@ -7,8 +7,8 @@ import Taro from '@tarojs/taro'
 export default function BasicPage() {
 
   React.useEffect(()=>{
-    window.history.pushState({}, '', '/')
-    console.log(window.location)
+    // window.history.pushState({}, '', '/')
+    console.log('useEffect:', window.location)
   }, [])
 
   return (
