@@ -5,32 +5,32 @@ specifiers:
   '@babel/runtime': ^7.7.7
   '@pmmmwh/react-refresh-webpack-plugin': ^0.5.5
   '@reach/dialog': 0.16.0
-  '@tarojs/cli': 3.6.0-canary.3
-  '@tarojs/components': 3.6.0-canary.3
-  '@tarojs/helper': 3.6.0-canary.3
-  '@tarojs/mini-runner': 3.6.0-canary.3
-  '@tarojs/plugin-framework-react': 3.6.0-canary.3
-  '@tarojs/plugin-html': 3.6.0-canary.3
-  '@tarojs/plugin-platform-alipay': 3.6.0-canary.3
-  '@tarojs/plugin-platform-jd': 3.6.0-canary.3
-  '@tarojs/plugin-platform-qq': 3.6.0-canary.3
-  '@tarojs/plugin-platform-swan': 3.6.0-canary.3
-  '@tarojs/plugin-platform-tt': 3.6.0-canary.3
-  '@tarojs/plugin-platform-weapp': 3.6.0-canary.3
-  '@tarojs/react': 3.6.0-canary.3
-  '@tarojs/router': 3.6.0-canary.3
-  '@tarojs/runtime': 3.6.0-canary.3
-  '@tarojs/shared': 3.6.0-canary.3
-  '@tarojs/taro': 3.6.0-canary.3
-  '@tarojs/taro-h5': 3.6.0-canary.3
-  '@tarojs/webpack5-prebundle': 3.6.0-canary.3
-  '@tarojs/webpack5-runner': 3.6.0-canary.3
+  '@tarojs/cli': 3.6.0-canary.9
+  '@tarojs/components': 3.6.0-canary.9
+  '@tarojs/helper': 3.6.0-canary.9
+  '@tarojs/mini-runner': 3.6.0-canary.9
+  '@tarojs/plugin-framework-react': 3.6.0-canary.9
+  '@tarojs/plugin-html': 3.6.0-canary.9
+  '@tarojs/plugin-platform-alipay': 3.6.0-canary.9
+  '@tarojs/plugin-platform-jd': 3.6.0-canary.9
+  '@tarojs/plugin-platform-qq': 3.6.0-canary.9
+  '@tarojs/plugin-platform-swan': 3.6.0-canary.9
+  '@tarojs/plugin-platform-tt': 3.6.0-canary.9
+  '@tarojs/plugin-platform-weapp': 3.6.0-canary.9
+  '@tarojs/react': 3.6.0-canary.9
+  '@tarojs/router': 3.6.0-canary.9
+  '@tarojs/runtime': 3.6.0-canary.9
+  '@tarojs/shared': 3.6.0-canary.9
+  '@tarojs/taro': 3.6.0-canary.9
+  '@tarojs/taro-h5': 3.6.0-canary.9
+  '@tarojs/webpack5-prebundle': 3.6.0-canary.9
+  '@tarojs/webpack5-runner': 3.6.0-canary.9
   '@types/react': ^18.0.0
   '@types/react-router-dom': ^5.3.3
   '@types/webpack-env': ^1.13.6
-  babel-preset-taro: 3.6.0-canary.3
+  babel-preset-taro: 3.6.0-canary.9
   eslint: ^8.12.0
-  eslint-config-taro: 3.6.0-canary.3
+  eslint-config-taro: 3.6.0-canary.9
   eslint-plugin-import: ^2.12.0
   eslint-plugin-react: ^7.8.2
   eslint-plugin-react-hooks: ^4.2.0
@@ -45,40 +45,40 @@ specifiers:
 dependencies:
   '@babel/runtime': registry.npmjs.org/@babel/runtime/7.20.1
   '@reach/dialog': registry.npmjs.org/@reach/dialog/0.16.0_2zx2umvpluuhvlq44va5bta2da
-  '@tarojs/components': registry.npmjs.org/@tarojs/components/3.6.0-canary.3_@types+react@18.0.25
-  '@tarojs/helper': registry.npmjs.org/@tarojs/helper/3.6.0-canary.3
-  '@tarojs/mini-runner': registry.npmjs.org/@tarojs/mini-runner/3.6.0-canary.3_@types+react@18.0.25
-  '@tarojs/plugin-framework-react': registry.npmjs.org/@tarojs/plugin-framework-react/3.6.0-canary.3_6luefu6o6i4kdi4mie52u3jqk4
-  '@tarojs/plugin-html': registry.npmjs.org/@tarojs/plugin-html/3.6.0-canary.3_@types+react@18.0.25
-  '@tarojs/plugin-platform-alipay': registry.npmjs.org/@tarojs/plugin-platform-alipay/3.6.0-canary.3_@types+react@18.0.25
-  '@tarojs/plugin-platform-jd': registry.npmjs.org/@tarojs/plugin-platform-jd/3.6.0-canary.3_@types+react@18.0.25
-  '@tarojs/plugin-platform-qq': registry.npmjs.org/@tarojs/plugin-platform-qq/3.6.0-canary.3_@types+react@18.0.25
-  '@tarojs/plugin-platform-swan': registry.npmjs.org/@tarojs/plugin-platform-swan/3.6.0-canary.3_@types+react@18.0.25
-  '@tarojs/plugin-platform-tt': registry.npmjs.org/@tarojs/plugin-platform-tt/3.6.0-canary.3_@types+react@18.0.25
-  '@tarojs/plugin-platform-weapp': registry.npmjs.org/@tarojs/plugin-platform-weapp/3.6.0-canary.3_@types+react@18.0.25
-  '@tarojs/react': registry.npmjs.org/@tarojs/react/3.6.0-canary.3_react@18.2.0
-  '@tarojs/router': registry.npmjs.org/@tarojs/router/3.6.0-canary.3_@types+react@18.0.25
-  '@tarojs/runtime': registry.npmjs.org/@tarojs/runtime/3.6.0-canary.3
-  '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.3
-  '@tarojs/taro': registry.npmjs.org/@tarojs/taro/3.6.0-canary.3_@types+react@18.0.25
-  '@tarojs/taro-h5': registry.npmjs.org/@tarojs/taro-h5/3.6.0-canary.3_@types+react@18.0.25
-  '@tarojs/webpack5-prebundle': registry.npmjs.org/@tarojs/webpack5-prebundle/3.6.0-canary.3_oeehtautnhftnwoci5auoh7dgy
-  '@tarojs/webpack5-runner': registry.npmjs.org/@tarojs/webpack5-runner/3.6.0-canary.3_62kq3nt6oqowpiaca5askg67nm
+  '@tarojs/components': registry.npmjs.org/@tarojs/components/3.6.0-canary.9_fan5qbzahqtxlm5dzefqlqx5ia
+  '@tarojs/helper': registry.npmjs.org/@tarojs/helper/3.6.0-canary.9
+  '@tarojs/mini-runner': registry.npmjs.org/@tarojs/mini-runner/3.6.0-canary.9_@types+react@18.0.25
+  '@tarojs/plugin-framework-react': registry.npmjs.org/@tarojs/plugin-framework-react/3.6.0-canary.9_6luefu6o6i4kdi4mie52u3jqk4
+  '@tarojs/plugin-html': registry.npmjs.org/@tarojs/plugin-html/3.6.0-canary.9_@types+react@18.0.25
+  '@tarojs/plugin-platform-alipay': registry.npmjs.org/@tarojs/plugin-platform-alipay/3.6.0-canary.9_@types+react@18.0.25
+  '@tarojs/plugin-platform-jd': registry.npmjs.org/@tarojs/plugin-platform-jd/3.6.0-canary.9_@types+react@18.0.25
+  '@tarojs/plugin-platform-qq': registry.npmjs.org/@tarojs/plugin-platform-qq/3.6.0-canary.9_@types+react@18.0.25
+  '@tarojs/plugin-platform-swan': registry.npmjs.org/@tarojs/plugin-platform-swan/3.6.0-canary.9_@types+react@18.0.25
+  '@tarojs/plugin-platform-tt': registry.npmjs.org/@tarojs/plugin-platform-tt/3.6.0-canary.9_@types+react@18.0.25
+  '@tarojs/plugin-platform-weapp': registry.npmjs.org/@tarojs/plugin-platform-weapp/3.6.0-canary.9_@types+react@18.0.25
+  '@tarojs/react': registry.npmjs.org/@tarojs/react/3.6.0-canary.9_react@18.2.0
+  '@tarojs/router': registry.npmjs.org/@tarojs/router/3.6.0-canary.9_@types+react@18.0.25
+  '@tarojs/runtime': registry.npmjs.org/@tarojs/runtime/3.6.0-canary.9
+  '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.9
+  '@tarojs/taro': registry.npmjs.org/@tarojs/taro/3.6.0-canary.9_@types+react@18.0.25
+  '@tarojs/taro-h5': registry.npmjs.org/@tarojs/taro-h5/3.6.0-canary.9_@types+react@18.0.25
+  '@tarojs/webpack5-prebundle': registry.npmjs.org/@tarojs/webpack5-prebundle/3.6.0-canary.9_oeehtautnhftnwoci5auoh7dgy
+  '@tarojs/webpack5-runner': registry.npmjs.org/@tarojs/webpack5-runner/3.6.0-canary.9_62kq3nt6oqowpiaca5askg67nm
   '@types/react-router-dom': registry.npmjs.org/@types/react-router-dom/5.3.3
   react: registry.npmjs.org/react/18.2.0
   react-dom: registry.npmjs.org/react-dom/18.2.0_react@18.2.0
   react-router-dom: registry.npmjs.org/react-router-dom/6.4.3_biqbaboplfbrettd7655fr4n2y
-  taro-ui: registry.npmjs.org/taro-ui/3.1.0-beta.3_g3z2ud2oobp353ht4bdipssl5i
+  taro-ui: registry.npmjs.org/taro-ui/3.1.0-beta.3_g3fnse2hpaxfwapkcns6qm2niy
 
 devDependencies:
   '@babel/core': registry.npmjs.org/@babel/core/7.20.2
   '@pmmmwh/react-refresh-webpack-plugin': registry.npmjs.org/@pmmmwh/react-refresh-webpack-plugin/0.5.9_ohj47mxwagpoxvu7nhhwxzphqm
-  '@tarojs/cli': registry.npmjs.org/@tarojs/cli/3.6.0-canary.3_@types+react@18.0.25
+  '@tarojs/cli': registry.npmjs.org/@tarojs/cli/3.6.0-canary.9_@types+react@18.0.25
   '@types/react': registry.npmjs.org/@types/react/18.0.25
   '@types/webpack-env': registry.npmjs.org/@types/webpack-env/1.18.0
-  babel-preset-taro: registry.npmjs.org/babel-preset-taro/3.6.0-canary.3_onoxfpradg3rlmt5xxu6q6gmia
+  babel-preset-taro: registry.npmjs.org/babel-preset-taro/3.6.0-canary.9_onoxfpradg3rlmt5xxu6q6gmia
   eslint: registry.npmjs.org/eslint/8.28.0
-  eslint-config-taro: registry.npmjs.org/eslint-config-taro/3.6.0-canary.3_ustmoyzvfgos66cf2wvsplsloa
+  eslint-config-taro: registry.npmjs.org/eslint-config-taro/3.6.0-canary.9_ustmoyzvfgos66cf2wvsplsloa
   eslint-plugin-import: registry.npmjs.org/eslint-plugin-import/2.26.0_eslint@8.28.0
   eslint-plugin-react: registry.npmjs.org/eslint-plugin-react/7.31.11_eslint@8.28.0
   eslint-plugin-react-hooks: registry.npmjs.org/eslint-plugin-react-hooks/4.6.0_eslint@8.28.0
@@ -2141,126 +2141,126 @@ packages:
     engines: {node: '>=4'}
     dev: true
 
-  registry.npmjs.org/@swc/core-darwin-arm64/1.3.19:
-    resolution: {integrity: sha512-6xLtmXzS4nNWGQkajbiAjGXspUJfxS2IWoGQ16J9nfOFdttKyoIG5o5+mxUfKeg5bXw9cI+r675kN/irx3z7MQ==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@swc/core-darwin-arm64/-/core-darwin-arm64-1.3.19.tgz}
+  registry.npmjs.org/@swc/core-darwin-arm64/1.3.24:
+    resolution: {integrity: sha512-rR+9UpWm+fGXcipsjCst2hIL1GYIbo0YTLhJZWdIpQD6KRHHJMFXiydMgQQkDj2Ml7HpqUVgxj6m4ZWYL8b0OA==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@swc/core-darwin-arm64/-/core-darwin-arm64-1.3.24.tgz}
     name: '@swc/core-darwin-arm64'
-    version: 1.3.19
+    version: 1.3.24
     engines: {node: '>=10'}
     cpu: [arm64]
     os: [darwin]
     requiresBuild: true
     optional: true
 
-  registry.npmjs.org/@swc/core-darwin-x64/1.3.19:
-    resolution: {integrity: sha512-qCDQcngYBeWrsNS1kcBslRD0dahKcYKaUUWRC9yHpRcs3SRvnSpJyWQR4y9RCdO9YNmixJ9+5+zPD9qcgL7jBw==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@swc/core-darwin-x64/-/core-darwin-x64-1.3.19.tgz}
+  registry.npmjs.org/@swc/core-darwin-x64/1.3.24:
+    resolution: {integrity: sha512-px+5vkGtgPH0m3FkkTBHynlRdS5rRz+lK+wiXIuBZFJSySWFl6RkKbvwkD+sf0MpazQlqwlv/rTOGJBw6oDffg==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@swc/core-darwin-x64/-/core-darwin-x64-1.3.24.tgz}
     name: '@swc/core-darwin-x64'
-    version: 1.3.19
+    version: 1.3.24
     engines: {node: '>=10'}
     cpu: [x64]
     os: [darwin]
     requiresBuild: true
     optional: true
 
-  registry.npmjs.org/@swc/core-linux-arm-gnueabihf/1.3.19:
-    resolution: {integrity: sha512-ufbKW6Lhii1+kVCXnsHgqYIpRvXhPjdhMudfP4KKVgJtT6TsdEIr+KRAQIBHLjRUsTKA2DLsGEpu9jfjwFiNEg==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@swc/core-linux-arm-gnueabihf/-/core-linux-arm-gnueabihf-1.3.19.tgz}
+  registry.npmjs.org/@swc/core-linux-arm-gnueabihf/1.3.24:
+    resolution: {integrity: sha512-jLs8ZOdTV4UW4J12E143QJ4mOMONQtqgAnuhBbRuWFzQ3ny1dfoC3P1jNWAJ2Xi59XdxAIXn0PggPNH4Kh34kw==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@swc/core-linux-arm-gnueabihf/-/core-linux-arm-gnueabihf-1.3.24.tgz}
     name: '@swc/core-linux-arm-gnueabihf'
-    version: 1.3.19
+    version: 1.3.24
     engines: {node: '>=10'}
     cpu: [arm]
     os: [linux]
     requiresBuild: true
     optional: true
 
-  registry.npmjs.org/@swc/core-linux-arm64-gnu/1.3.19:
-    resolution: {integrity: sha512-HHhqLRZv9Ss8orJrlEP4XRcLuqLDwFtGgbtHU8kyWBmQEtK42uT18Pf5RJBo5sPJHY8m5EO8C8y3hIbGmKtLyg==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@swc/core-linux-arm64-gnu/-/core-linux-arm64-gnu-1.3.19.tgz}
+  registry.npmjs.org/@swc/core-linux-arm64-gnu/1.3.24:
+    resolution: {integrity: sha512-A/v0h70BekrwGpp1DlzIFGcHQ3QQ2PexXcnnuIBZeMc9gNmHlcZmg3EcwAnaUDiokhNuSUFA/wV94yk1OqmSkw==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@swc/core-linux-arm64-gnu/-/core-linux-arm64-gnu-1.3.24.tgz}
     name: '@swc/core-linux-arm64-gnu'
-    version: 1.3.19
+    version: 1.3.24
     engines: {node: '>=10'}
     cpu: [arm64]
     os: [linux]
     requiresBuild: true
     optional: true
 
-  registry.npmjs.org/@swc/core-linux-arm64-musl/1.3.19:
-    resolution: {integrity: sha512-vipnF3C6T1368uHQqz8RpdszWxxGh0X8VBK3TdTOSWvI/duNZtZXEOZlB2Nh9w+u09umVw0MsJhvg86Aon39mA==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.3.19.tgz}
+  registry.npmjs.org/@swc/core-linux-arm64-musl/1.3.24:
+    resolution: {integrity: sha512-pbc9eArWPTiMrbpS/pJo0IiQNAKAQBcBIDjWBGP1tcw2iDXYLw4bruwz9kI/VjakbshWb8MoE4T5ClkeuULvSw==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.3.24.tgz}
     name: '@swc/core-linux-arm64-musl'
-    version: 1.3.19
+    version: 1.3.24
     engines: {node: '>=10'}
     cpu: [arm64]
     os: [linux]
     requiresBuild: true
     optional: true
 
-  registry.npmjs.org/@swc/core-linux-x64-gnu/1.3.19:
-    resolution: {integrity: sha512-dUbq8mnIqBhU7OppfY3ncOvl26691WFGxd97QtnnlfMZrKnaofKFMIxE9sTHOLSbBo16AylnEMiwa45w2UWDEg==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@swc/core-linux-x64-gnu/-/core-linux-x64-gnu-1.3.19.tgz}
+  registry.npmjs.org/@swc/core-linux-x64-gnu/1.3.24:
+    resolution: {integrity: sha512-pP5pOLlY1xd352qo7rTlpVPUI9/9VhOd4b3Lk+LzfZDq9bTL2NDlGfyrPiwa5DGHMSzrugH56K2J68eutkxYVA==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@swc/core-linux-x64-gnu/-/core-linux-x64-gnu-1.3.24.tgz}
     name: '@swc/core-linux-x64-gnu'
-    version: 1.3.19
+    version: 1.3.24
     engines: {node: '>=10'}
     cpu: [x64]
     os: [linux]
     requiresBuild: true
     optional: true
 
-  registry.npmjs.org/@swc/core-linux-x64-musl/1.3.19:
-    resolution: {integrity: sha512-RiVZrlkNGcj9jZyjF7YFOW3fj9fWPC25AYkknLpWxAmLQcp1piAWj+aSixmMWUC4QJau78VZzcm+kRgIOECALw==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@swc/core-linux-x64-musl/-/core-linux-x64-musl-1.3.19.tgz}
+  registry.npmjs.org/@swc/core-linux-x64-musl/1.3.24:
+    resolution: {integrity: sha512-phNbP7zGp+Wcyxq1Qxlpe5KkxO7WLT2kVQUC7aDFGlVdCr+xdXsfH1MzheHtnr0kqTVQX1aiM8XXXHfFxR0oNA==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@swc/core-linux-x64-musl/-/core-linux-x64-musl-1.3.24.tgz}
     name: '@swc/core-linux-x64-musl'
-    version: 1.3.19
+    version: 1.3.24
     engines: {node: '>=10'}
     cpu: [x64]
     os: [linux]
     requiresBuild: true
     optional: true
 
-  registry.npmjs.org/@swc/core-win32-arm64-msvc/1.3.19:
-    resolution: {integrity: sha512-r2U6GC+go2iiLx5JBZIJswYFiMv0yOsm+pgE1srVvAc8dP02320t9yh0Uj4Sr2hDipTWJ33Y5PMZwEsZSfBVbQ==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@swc/core-win32-arm64-msvc/-/core-win32-arm64-msvc-1.3.19.tgz}
+  registry.npmjs.org/@swc/core-win32-arm64-msvc/1.3.24:
+    resolution: {integrity: sha512-qhbiJTWAOqyR+K9xnGmCkOWSz2EmWpDBstEJCEOTc6FZiEdbiTscDmqTcMbCKaTHGu8t+6erVA4t65/Eg6uWPA==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@swc/core-win32-arm64-msvc/-/core-win32-arm64-msvc-1.3.24.tgz}
     name: '@swc/core-win32-arm64-msvc'
-    version: 1.3.19
+    version: 1.3.24
     engines: {node: '>=10'}
     cpu: [arm64]
     os: [win32]
     requiresBuild: true
     optional: true
 
-  registry.npmjs.org/@swc/core-win32-ia32-msvc/1.3.19:
-    resolution: {integrity: sha512-SPpESDa4vr0PRvUiqXSi8oZSTmkDOGrZ/pSiLD7ISgjsQ5RQMbPkuEK0ztWljim87q2fO0bGVVhyaVYxdOVS1A==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@swc/core-win32-ia32-msvc/-/core-win32-ia32-msvc-1.3.19.tgz}
+  registry.npmjs.org/@swc/core-win32-ia32-msvc/1.3.24:
+    resolution: {integrity: sha512-JfghIlscE4Rz+Lc08lSoDh+R0cWxrISed5biogFfE6vZqhaDnw3E5Qshqw7O3pIaiq8L2u1nmzuyP581ZmpbRA==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@swc/core-win32-ia32-msvc/-/core-win32-ia32-msvc-1.3.24.tgz}
     name: '@swc/core-win32-ia32-msvc'
-    version: 1.3.19
+    version: 1.3.24
     engines: {node: '>=10'}
     cpu: [ia32]
     os: [win32]
     requiresBuild: true
     optional: true
 
-  registry.npmjs.org/@swc/core-win32-x64-msvc/1.3.19:
-    resolution: {integrity: sha512-0X5HqFC1wQlheOQDZeF6KNOSURZKkGISNK3aTSmTq9g7dDJ/kTcVjsdKbu2rK4ibCnlC9IS0cLK9FpROnsVPwA==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@swc/core-win32-x64-msvc/-/core-win32-x64-msvc-1.3.19.tgz}
+  registry.npmjs.org/@swc/core-win32-x64-msvc/1.3.24:
+    resolution: {integrity: sha512-3AmJRr0hwciwDBbzUNqaftvppzS8v9X/iv/Wl7YaVLBVpPfQvaZzfqLycvNMGLZb5vIKXR/u58txg3dRBGsJtw==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@swc/core-win32-x64-msvc/-/core-win32-x64-msvc-1.3.24.tgz}
     name: '@swc/core-win32-x64-msvc'
-    version: 1.3.19
+    version: 1.3.24
     engines: {node: '>=10'}
     cpu: [x64]
     os: [win32]
     requiresBuild: true
     optional: true
 
-  registry.npmjs.org/@swc/core/1.3.19:
-    resolution: {integrity: sha512-KiXUv2vpmOaGhoLCN9Rw7Crsfq1YmOR2ZbajiqNAh/iu0d3CKn5JZhLRs6S7nCk78cwFFac2obQfTWPePLUe/g==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@swc/core/-/core-1.3.19.tgz}
+  registry.npmjs.org/@swc/core/1.3.24:
+    resolution: {integrity: sha512-QMOTd0AgiUT3K1crxLRqd3gw0f3FC8hhH1vvlIlryvYqU4c+FJ/T2G4ZhMKLxQlZ/jX6Rhk0gKINZRBxy2GFyQ==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@swc/core/-/core-1.3.24.tgz}
     name: '@swc/core'
-    version: 1.3.19
+    version: 1.3.24
     engines: {node: '>=10'}
     hasBin: true
     requiresBuild: true
     optionalDependencies:
-      '@swc/core-darwin-arm64': registry.npmjs.org/@swc/core-darwin-arm64/1.3.19
-      '@swc/core-darwin-x64': registry.npmjs.org/@swc/core-darwin-x64/1.3.19
-      '@swc/core-linux-arm-gnueabihf': registry.npmjs.org/@swc/core-linux-arm-gnueabihf/1.3.19
-      '@swc/core-linux-arm64-gnu': registry.npmjs.org/@swc/core-linux-arm64-gnu/1.3.19
-      '@swc/core-linux-arm64-musl': registry.npmjs.org/@swc/core-linux-arm64-musl/1.3.19
-      '@swc/core-linux-x64-gnu': registry.npmjs.org/@swc/core-linux-x64-gnu/1.3.19
-      '@swc/core-linux-x64-musl': registry.npmjs.org/@swc/core-linux-x64-musl/1.3.19
-      '@swc/core-win32-arm64-msvc': registry.npmjs.org/@swc/core-win32-arm64-msvc/1.3.19
-      '@swc/core-win32-ia32-msvc': registry.npmjs.org/@swc/core-win32-ia32-msvc/1.3.19
-      '@swc/core-win32-x64-msvc': registry.npmjs.org/@swc/core-win32-x64-msvc/1.3.19
+      '@swc/core-darwin-arm64': registry.npmjs.org/@swc/core-darwin-arm64/1.3.24
+      '@swc/core-darwin-x64': registry.npmjs.org/@swc/core-darwin-x64/1.3.24
+      '@swc/core-linux-arm-gnueabihf': registry.npmjs.org/@swc/core-linux-arm-gnueabihf/1.3.24
+      '@swc/core-linux-arm64-gnu': registry.npmjs.org/@swc/core-linux-arm64-gnu/1.3.24
+      '@swc/core-linux-arm64-musl': registry.npmjs.org/@swc/core-linux-arm64-musl/1.3.24
+      '@swc/core-linux-x64-gnu': registry.npmjs.org/@swc/core-linux-x64-gnu/1.3.24
+      '@swc/core-linux-x64-musl': registry.npmjs.org/@swc/core-linux-x64-musl/1.3.24
+      '@swc/core-win32-arm64-msvc': registry.npmjs.org/@swc/core-win32-arm64-msvc/1.3.24
+      '@swc/core-win32-ia32-msvc': registry.npmjs.org/@swc/core-win32-ia32-msvc/1.3.24
+      '@swc/core-win32-x64-msvc': registry.npmjs.org/@swc/core-win32-x64-msvc/1.3.24
 
-  registry.npmjs.org/@swc/register/0.1.10_@swc+core@1.3.19:
+  registry.npmjs.org/@swc/register/0.1.10_@swc+core@1.3.24:
     resolution: {integrity: sha512-6STwH/q4dc3pitXLVkV7sP0Hiy+zBsU2wOF1aXpXR95pnH3RYHKIsDC+gvesfyB7jxNT9OOZgcqOp9RPxVTx9A==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@swc/register/-/register-0.1.10.tgz}
     id: registry.npmjs.org/@swc/register/0.1.10
     name: '@swc/register'
@@ -2269,7 +2269,7 @@ packages:
     peerDependencies:
       '@swc/core': ^1.0.46
     dependencies:
-      '@swc/core': registry.npmjs.org/@swc/core/1.3.19
+      '@swc/core': registry.npmjs.org/@swc/core/1.3.24
       lodash.clonedeep: registry.npmjs.org/lodash.clonedeep/4.5.0
       pirates: registry.npmjs.org/pirates/4.0.5
       source-map-support: registry.npmjs.org/source-map-support/0.5.21
@@ -2283,34 +2283,36 @@ packages:
       defer-to-connect: registry.npmjs.org/defer-to-connect/1.1.3
     dev: true
 
-  registry.npmjs.org/@tarojs/api/3.6.0-canary.3:
-    resolution: {integrity: sha512-IZL4hliGv1IeDVSiU/D/osocMlUkrIxYYWxftMb/exTeuuvv06eb7kbnN885fRkyns7+8Nw3Jt4Q1N42Doaf6w==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/api/-/api-3.6.0-canary.3.tgz}
+  registry.npmjs.org/@tarojs/api/3.6.0-canary.9:
+    resolution: {integrity: sha512-umQHEhYsfBb7azBf6jxYkN8axh4IJ9CpwGby1U26RZyf6rK4aOu65aDQ8WNAOZHVK1Z6wd+Krhx3aULN9U5GUQ==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/api/-/api-3.6.0-canary.9.tgz}
     name: '@tarojs/api'
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     dependencies:
       '@babel/runtime': registry.npmjs.org/@babel/runtime/7.20.1
-      '@tarojs/runtime': registry.npmjs.org/@tarojs/runtime/3.6.0-canary.3
+      '@tarojs/runtime': registry.npmjs.org/@tarojs/runtime/3.6.0-canary.9
 
-  registry.npmjs.org/@tarojs/cli/3.6.0-canary.3_@types+react@18.0.25:
-    resolution: {integrity: sha512-BiMz01HN+CP7ou0Kio9n4eHC7dgcFiv3TgU0YwblcQswpwq8rAEALP11PaeE9aLvgBx3dHx80iOwCwBCQWhiyg==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/cli/-/cli-3.6.0-canary.3.tgz}
-    id: registry.npmjs.org/@tarojs/cli/3.6.0-canary.3
+  registry.npmjs.org/@tarojs/cli/3.6.0-canary.9_@types+react@18.0.25:
+    resolution: {integrity: sha512-KLZBe6JrNKPgB9cWLf5N98GhyyN0xE31KnG2Ue5KVvDgpiXkZ+seKSOhi8OZxtURNjngiFlYWh5g9R5MQ1ReBQ==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/cli/-/cli-3.6.0-canary.9.tgz}
+    id: registry.npmjs.org/@tarojs/cli/3.6.0-canary.9
     name: '@tarojs/cli'
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     engines: {node: '>=12'}
     hasBin: true
     dependencies:
+      '@babel/generator': registry.npmjs.org/@babel/generator/7.20.4
       '@babel/template': registry.npmjs.org/@babel/template/7.18.10
       '@babel/traverse': registry.npmjs.org/@babel/traverse/7.20.1
       '@babel/types': registry.npmjs.org/@babel/types/7.20.2
-      '@tarojs/helper': registry.npmjs.org/@tarojs/helper/3.6.0-canary.3
-      '@tarojs/service': registry.npmjs.org/@tarojs/service/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.3
-      '@tarojs/taroize': registry.npmjs.org/@tarojs/taroize/3.6.0-canary.3
+      '@tarojs/helper': registry.npmjs.org/@tarojs/helper/3.6.0-canary.9
+      '@tarojs/service': registry.npmjs.org/@tarojs/service/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.9
+      '@tarojs/taroize': registry.npmjs.org/@tarojs/taroize/3.6.0-canary.9
       '@tarojs/transformer-wx': registry.npmjs.org/@tarojs/transformer-wx/2.2.10
       adm-zip: registry.npmjs.org/adm-zip/0.4.16
       babylon: registry.npmjs.org/babylon/6.18.0
-      better-babel-generator: registry.npmjs.org/better-babel-generator/6.26.1
       cli-highlight: registry.npmjs.org/cli-highlight/2.1.11
+      dotenv: registry.npmjs.org/dotenv/16.0.3
+      dotenv-expand: registry.npmjs.org/dotenv-expand/9.0.0
       download-git-repo: registry.npmjs.org/download-git-repo/2.0.0
       ejs: registry.npmjs.org/ejs/2.7.4
       envinfo: registry.npmjs.org/envinfo/6.0.1
@@ -2345,11 +2347,37 @@ packages:
       - vue
     dev: true
 
-  registry.npmjs.org/@tarojs/components/3.6.0-canary.3_@types+react@18.0.25:
-    resolution: {integrity: sha512-K7cZEwVxBRtX1MIjNedyWXY5lbonk6RptxPnJ9IwBBJon+hYP6pJm0+G0hoh8/5aErlz3T4Wnc/h8LWS+98/SQ==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/components/-/components-3.6.0-canary.3.tgz}
-    id: registry.npmjs.org/@tarojs/components/3.6.0-canary.3
+  registry.npmjs.org/@tarojs/components-advanced/3.6.0-canary.9_fan5qbzahqtxlm5dzefqlqx5ia:
+    resolution: {integrity: sha512-/YmiUnlwRnEQG/8vrirpWEOZ5q915gsL7eDIVXn+UIzSikmHUxpnnPKcdCIUzgQedMGjJjqeiv+UpW0I7rGtJw==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/components-advanced/-/components-advanced-3.6.0-canary.9.tgz}
+    id: registry.npmjs.org/@tarojs/components-advanced/3.6.0-canary.9
+    name: '@tarojs/components-advanced'
+    version: 3.6.0-canary.9
+    peerDependencies:
+      react: '>=17'
+      vue: '*'
+    peerDependenciesMeta:
+      react:
+        optional: true
+      vue:
+        optional: true
+    dependencies:
+      '@tarojs/components': registry.npmjs.org/@tarojs/components/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.9
+      memoize-one: registry.npmjs.org/memoize-one/6.0.0
+      postcss: registry.npmjs.org/postcss/8.4.19
+      react: registry.npmjs.org/react/18.2.0
+    transitivePeerDependencies:
+      - '@types/react'
+      - '@types/react-native'
+      - '@types/webpack'
+      - '@types/webpack-dev-server'
+    dev: false
+
+  registry.npmjs.org/@tarojs/components/3.6.0-canary.9_@types+react@18.0.25:
+    resolution: {integrity: sha512-6Wdl3yYqLdb7JP1TRlWMWgUWt6JgMm+4Xh4LXH+b44Fg9a++9R4C1Mh9a/8hDVlKQClNPkKAwo6+RZglcGp7TQ==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/components/-/components-3.6.0-canary.9.tgz}
+    id: registry.npmjs.org/@tarojs/components/3.6.0-canary.9
     name: '@tarojs/components'
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     peerDependencies:
       '@types/react': '*'
       '@types/react-native': '*'
@@ -2362,8 +2390,9 @@ packages:
       vue:
         optional: true
     dependencies:
-      '@tarojs/router': registry.npmjs.org/@tarojs/router/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/taro': registry.npmjs.org/@tarojs/taro/3.6.0-canary.3_@types+react@18.0.25
+      '@tarojs/components-advanced': registry.npmjs.org/@tarojs/components-advanced/3.6.0-canary.9_fan5qbzahqtxlm5dzefqlqx5ia
+      '@tarojs/router': registry.npmjs.org/@tarojs/router/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/taro': registry.npmjs.org/@tarojs/taro/3.6.0-canary.9_@types+react@18.0.25
       '@types/react': registry.npmjs.org/@types/react/18.0.25
       classnames: registry.npmjs.org/classnames/2.3.2
       hls.js: registry.npmjs.org/hls.js/1.2.7
@@ -2376,10 +2405,43 @@ packages:
       - '@types/webpack-dev-server'
     dev: false
 
-  registry.npmjs.org/@tarojs/helper/3.6.0-canary.3:
-    resolution: {integrity: sha512-mdsJljETotAnUjowb809OgN4Ev0xlty9aUTn0Xgn85pmnlXsq8Eqf1M4aJOKsYkN8SWmusFNQPZ6rzNFhscn5Q==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/helper/-/helper-3.6.0-canary.3.tgz}
+  registry.npmjs.org/@tarojs/components/3.6.0-canary.9_fan5qbzahqtxlm5dzefqlqx5ia:
+    resolution: {integrity: sha512-6Wdl3yYqLdb7JP1TRlWMWgUWt6JgMm+4Xh4LXH+b44Fg9a++9R4C1Mh9a/8hDVlKQClNPkKAwo6+RZglcGp7TQ==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/components/-/components-3.6.0-canary.9.tgz}
+    id: registry.npmjs.org/@tarojs/components/3.6.0-canary.9
+    name: '@tarojs/components'
+    version: 3.6.0-canary.9
+    peerDependencies:
+      '@types/react': '*'
+      '@types/react-native': '*'
+      vue: '*'
+    peerDependenciesMeta:
+      '@types/react':
+        optional: true
+      '@types/react-native':
+        optional: true
+      vue:
+        optional: true
+    dependencies:
+      '@tarojs/components-advanced': registry.npmjs.org/@tarojs/components-advanced/3.6.0-canary.9_fan5qbzahqtxlm5dzefqlqx5ia
+      '@tarojs/router': registry.npmjs.org/@tarojs/router/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/taro': registry.npmjs.org/@tarojs/taro/3.6.0-canary.9_@types+react@18.0.25
+      '@types/react': registry.npmjs.org/@types/react/18.0.25
+      classnames: registry.npmjs.org/classnames/2.3.2
+      hls.js: registry.npmjs.org/hls.js/1.2.7
+      intersection-observer: registry.npmjs.org/intersection-observer/0.7.0
+      resolve-pathname: registry.npmjs.org/resolve-pathname/3.0.0
+      swiper: registry.npmjs.org/swiper/6.8.0
+      weui: registry.npmjs.org/weui/1.1.3
+    transitivePeerDependencies:
+      - '@types/webpack'
+      - '@types/webpack-dev-server'
+      - react
+    dev: false
+
+  registry.npmjs.org/@tarojs/helper/3.6.0-canary.9:
+    resolution: {integrity: sha512-N9ydaEvJ7LuprNOylxpHC8DA/SD8550O6eELFHtyvpfMTFPrZidbAS7k55twXCZoGBHFxOc2V1K+T+MvdPf28g==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/helper/-/helper-3.6.0-canary.9.tgz}
     name: '@tarojs/helper'
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     dependencies:
       '@babel/core': registry.npmjs.org/@babel/core/7.20.2
       '@babel/parser': registry.npmjs.org/@babel/parser/7.20.3
@@ -2390,8 +2452,8 @@ packages:
       '@babel/preset-typescript': registry.npmjs.org/@babel/preset-typescript/7.18.6_@babel+core@7.20.2
       '@babel/register': registry.npmjs.org/@babel/register/7.18.9_@babel+core@7.20.2
       '@babel/runtime': registry.npmjs.org/@babel/runtime/7.20.1
-      '@swc/core': registry.npmjs.org/@swc/core/1.3.19
-      '@swc/register': registry.npmjs.org/@swc/register/0.1.10_@swc+core@1.3.19
+      '@swc/core': registry.npmjs.org/@swc/core/1.3.24
+      '@swc/register': registry.npmjs.org/@swc/register/0.1.10_@swc+core@1.3.24
       ansi-escapes: registry.npmjs.org/ansi-escapes/4.3.2
       chalk: registry.npmjs.org/chalk/3.0.0
       chokidar: registry.npmjs.org/chokidar/3.5.3
@@ -2406,34 +2468,34 @@ packages:
     transitivePeerDependencies:
       - supports-color
 
-  registry.npmjs.org/@tarojs/mini-runner/3.6.0-canary.3_@types+react@18.0.25:
-    resolution: {integrity: sha512-VDxFveyP0UyMI0/CQB1Lk4dyk8gKOoZmj7QBRF1Nr1FqI5Rb3P9iz0aLap1+VRyOT3SrgZQZ7DSpGkLoB06c8w==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/mini-runner/-/mini-runner-3.6.0-canary.3.tgz}
-    id: registry.npmjs.org/@tarojs/mini-runner/3.6.0-canary.3
+  registry.npmjs.org/@tarojs/mini-runner/3.6.0-canary.9_@types+react@18.0.25:
+    resolution: {integrity: sha512-kmIoUs7BMHzHywMgPmzlSjrn/+ehChuA3iJe6vUV4cv2nOqnI7TuudPV6Yhj4+bVtE+05pzufHRMOvV4c6oKow==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/mini-runner/-/mini-runner-3.6.0-canary.9.tgz}
+    id: registry.npmjs.org/@tarojs/mini-runner/3.6.0-canary.9
     name: '@tarojs/mini-runner'
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     peerDependencies:
       postcss: ^8.4.18
     dependencies:
       '@babel/core': registry.npmjs.org/@babel/core/7.20.2
-      '@tarojs/components': registry.npmjs.org/@tarojs/components/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/helper': registry.npmjs.org/@tarojs/helper/3.6.0-canary.3
-      '@tarojs/plugin-platform-alipay': registry.npmjs.org/@tarojs/plugin-platform-alipay/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/plugin-platform-jd': registry.npmjs.org/@tarojs/plugin-platform-jd/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/plugin-platform-qq': registry.npmjs.org/@tarojs/plugin-platform-qq/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/plugin-platform-swan': registry.npmjs.org/@tarojs/plugin-platform-swan/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/plugin-platform-tt': registry.npmjs.org/@tarojs/plugin-platform-tt/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/plugin-platform-weapp': registry.npmjs.org/@tarojs/plugin-platform-weapp/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/runner-utils': registry.npmjs.org/@tarojs/runner-utils/3.6.0-canary.3
-      '@tarojs/runtime': registry.npmjs.org/@tarojs/runtime/3.6.0-canary.3
-      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.3
-      '@tarojs/taro': registry.npmjs.org/@tarojs/taro/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/taro-loader': registry.npmjs.org/@tarojs/taro-loader/3.6.0-canary.3_@types+react@18.0.25
+      '@tarojs/components': registry.npmjs.org/@tarojs/components/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/helper': registry.npmjs.org/@tarojs/helper/3.6.0-canary.9
+      '@tarojs/plugin-platform-alipay': registry.npmjs.org/@tarojs/plugin-platform-alipay/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/plugin-platform-jd': registry.npmjs.org/@tarojs/plugin-platform-jd/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/plugin-platform-qq': registry.npmjs.org/@tarojs/plugin-platform-qq/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/plugin-platform-swan': registry.npmjs.org/@tarojs/plugin-platform-swan/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/plugin-platform-tt': registry.npmjs.org/@tarojs/plugin-platform-tt/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/plugin-platform-weapp': registry.npmjs.org/@tarojs/plugin-platform-weapp/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/runner-utils': registry.npmjs.org/@tarojs/runner-utils/3.6.0-canary.9
+      '@tarojs/runtime': registry.npmjs.org/@tarojs/runtime/3.6.0-canary.9
+      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.9
+      '@tarojs/taro': registry.npmjs.org/@tarojs/taro/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/taro-loader': registry.npmjs.org/@tarojs/taro-loader/3.6.0-canary.9_@types+react@18.0.25
       acorn-walk: registry.npmjs.org/acorn-walk/8.2.0
       autoprefixer: registry.npmjs.org/autoprefixer/9.8.8
       babel-loader: registry.npmjs.org/babel-loader/8.2.1_tktscwi5cl3qcx6vcfwkvrwn6i
-      babel-preset-taro: registry.npmjs.org/babel-preset-taro/3.6.0-canary.3_onoxfpradg3rlmt5xxu6q6gmia
+      babel-preset-taro: registry.npmjs.org/babel-preset-taro/3.6.0-canary.9_onoxfpradg3rlmt5xxu6q6gmia
       copy-webpack-plugin: registry.npmjs.org/copy-webpack-plugin/5.1.2_webpack@4.46.0
-      css-loader: registry.npmjs.org/css-loader/6.7.2_webpack@4.46.0
+      css-loader: registry.npmjs.org/css-loader/5.2.7_webpack@4.46.0
       csso-webpack-plugin: registry.npmjs.org/csso-webpack-plugin/2.0.0-beta.1
       file-loader: registry.npmjs.org/file-loader/6.2.0_webpack@4.46.0
       fs-extra: registry.npmjs.org/fs-extra/8.1.0
@@ -2449,10 +2511,10 @@ packages:
       miniprogram-simulate: registry.npmjs.org/miniprogram-simulate/1.5.7
       mkdirp: registry.npmjs.org/mkdirp/1.0.4
       ora: registry.npmjs.org/ora/4.0.3
-      postcss-html-transform: registry.npmjs.org/postcss-html-transform/3.6.0-canary.3
+      postcss-html-transform: registry.npmjs.org/postcss-html-transform/3.6.0-canary.9
       postcss-import: registry.npmjs.org/postcss-import/14.1.0
-      postcss-loader: registry.npmjs.org/postcss-loader/7.0.1_webpack@4.46.0
-      postcss-pxtransform: registry.npmjs.org/postcss-pxtransform/3.6.0-canary.3
+      postcss-loader: registry.npmjs.org/postcss-loader/4.3.0_webpack@4.46.0
+      postcss-pxtransform: registry.npmjs.org/postcss-pxtransform/3.6.0-canary.9
       postcss-url: registry.npmjs.org/postcss-url/10.1.3
       regenerator-runtime: registry.npmjs.org/regenerator-runtime/0.11.1
       resolve: registry.npmjs.org/resolve/1.22.1
@@ -2489,11 +2551,11 @@ packages:
       - webpack-command
     dev: false
 
-  registry.npmjs.org/@tarojs/plugin-framework-react/3.6.0-canary.3_6luefu6o6i4kdi4mie52u3jqk4:
-    resolution: {integrity: sha512-41t9DYxnQY0fWuMHEHZM6aRcKuEfbvjHA8oPHep4Y3jaHlLKc2LGx9inI0I7sU/Nejsgo3nvtdmLWmjBO3Escw==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/plugin-framework-react/-/plugin-framework-react-3.6.0-canary.3.tgz}
-    id: registry.npmjs.org/@tarojs/plugin-framework-react/3.6.0-canary.3
+  registry.npmjs.org/@tarojs/plugin-framework-react/3.6.0-canary.9_6luefu6o6i4kdi4mie52u3jqk4:
+    resolution: {integrity: sha512-snYRKtN3K/NiYFpAhs3l+Ei3pZw/2Cvx8xRBJ+UKpSnN40LK6np6y1jV+4gCvcx35ghfKNliFDlBVMcdF/DHJQ==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/plugin-framework-react/-/plugin-framework-react-3.6.0-canary.9.tgz}
+    id: registry.npmjs.org/@tarojs/plugin-framework-react/3.6.0-canary.9
     name: '@tarojs/plugin-framework-react'
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     peerDependencies:
       '@pmmmwh/react-refresh-webpack-plugin': '*'
       '@prefresh/webpack': '*'
@@ -2513,10 +2575,10 @@ packages:
         optional: true
     dependencies:
       '@pmmmwh/react-refresh-webpack-plugin': registry.npmjs.org/@pmmmwh/react-refresh-webpack-plugin/0.5.9_ohj47mxwagpoxvu7nhhwxzphqm
-      '@tarojs/helper': registry.npmjs.org/@tarojs/helper/3.6.0-canary.3
-      '@tarojs/runtime': registry.npmjs.org/@tarojs/runtime/3.6.0-canary.3
-      '@tarojs/service': registry.npmjs.org/@tarojs/service/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.3
+      '@tarojs/helper': registry.npmjs.org/@tarojs/helper/3.6.0-canary.9
+      '@tarojs/runtime': registry.npmjs.org/@tarojs/runtime/3.6.0-canary.9
+      '@tarojs/service': registry.npmjs.org/@tarojs/service/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.9
       acorn: registry.npmjs.org/acorn/8.8.1
       acorn-walk: registry.npmjs.org/acorn-walk/8.2.0
       react: registry.npmjs.org/react/18.2.0
@@ -2529,16 +2591,16 @@ packages:
       - vue
     dev: false
 
-  registry.npmjs.org/@tarojs/plugin-html/3.6.0-canary.3_@types+react@18.0.25:
-    resolution: {integrity: sha512-wc21/ONXpozk/yH8E+BKOVPjCbTvpYayg7vHIGe3amGeQm0TQCoQD55d9bDoeVniRzxJRVZ8K/Af3JLS09NM2w==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/plugin-html/-/plugin-html-3.6.0-canary.3.tgz}
-    id: registry.npmjs.org/@tarojs/plugin-html/3.6.0-canary.3
+  registry.npmjs.org/@tarojs/plugin-html/3.6.0-canary.9_@types+react@18.0.25:
+    resolution: {integrity: sha512-33VpLBWajwKGkJoEDLBOqk4uve9+XIJ40UbnaSWFnNrK/7PTMugdm++mIREXCAECo6mqd71mv9Z+nX8hzr3RYg==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/plugin-html/-/plugin-html-3.6.0-canary.9.tgz}
+    id: registry.npmjs.org/@tarojs/plugin-html/3.6.0-canary.9
     name: '@tarojs/plugin-html'
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     dependencies:
       '@babel/parser': registry.npmjs.org/@babel/parser/7.20.3
-      '@tarojs/runtime': registry.npmjs.org/@tarojs/runtime/3.6.0-canary.3
-      '@tarojs/service': registry.npmjs.org/@tarojs/service/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.3
+      '@tarojs/runtime': registry.npmjs.org/@tarojs/runtime/3.6.0-canary.9
+      '@tarojs/service': registry.npmjs.org/@tarojs/service/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.9
     transitivePeerDependencies:
       - '@types/react'
       - '@types/webpack'
@@ -2547,15 +2609,15 @@ packages:
       - vue
     dev: false
 
-  registry.npmjs.org/@tarojs/plugin-platform-alipay/3.6.0-canary.3_@types+react@18.0.25:
-    resolution: {integrity: sha512-GiIAp1bXdh3KlW9g7V0FhiPf+XQiGHn3Ch9nSSZjqXSWBsD5sTve8rFgD797FBoilaaVO8M20bd+e2Cpq11pbw==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/plugin-platform-alipay/-/plugin-platform-alipay-3.6.0-canary.3.tgz}
-    id: registry.npmjs.org/@tarojs/plugin-platform-alipay/3.6.0-canary.3
+  registry.npmjs.org/@tarojs/plugin-platform-alipay/3.6.0-canary.9_@types+react@18.0.25:
+    resolution: {integrity: sha512-ZGtv1aXqpomnXyczWx/JEciuMAZwSvf7DzBhtCgfHuA/Eiab3LbCbrLqiIKveMi6yfeY5zXwl0E6ggKoTw7Psw==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/plugin-platform-alipay/-/plugin-platform-alipay-3.6.0-canary.9.tgz}
+    id: registry.npmjs.org/@tarojs/plugin-platform-alipay/3.6.0-canary.9
     name: '@tarojs/plugin-platform-alipay'
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     dependencies:
-      '@tarojs/components': registry.npmjs.org/@tarojs/components/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/service': registry.npmjs.org/@tarojs/service/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.3
+      '@tarojs/components': registry.npmjs.org/@tarojs/components/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/service': registry.npmjs.org/@tarojs/service/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.9
     transitivePeerDependencies:
       - '@types/react'
       - '@types/react-native'
@@ -2565,14 +2627,14 @@ packages:
       - vue
     dev: false
 
-  registry.npmjs.org/@tarojs/plugin-platform-jd/3.6.0-canary.3_@types+react@18.0.25:
-    resolution: {integrity: sha512-1Ke9U42DPpXoxmszirVTCpxPazMmxoMRSNSKnEzNrMl/FbUR1dQcqicnMxgp5RdWbfRYbtMqiQ5hAnTogbii6g==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/plugin-platform-jd/-/plugin-platform-jd-3.6.0-canary.3.tgz}
-    id: registry.npmjs.org/@tarojs/plugin-platform-jd/3.6.0-canary.3
+  registry.npmjs.org/@tarojs/plugin-platform-jd/3.6.0-canary.9_@types+react@18.0.25:
+    resolution: {integrity: sha512-uI7YW6YXmL+hkyo9ASAl5nNbWNSOoT5aabl2zTbvduLx4wJLB9PUftkhUYnXxPvBqeRGQGzNW+Hv03F+1NrLmA==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/plugin-platform-jd/-/plugin-platform-jd-3.6.0-canary.9.tgz}
+    id: registry.npmjs.org/@tarojs/plugin-platform-jd/3.6.0-canary.9
     name: '@tarojs/plugin-platform-jd'
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     dependencies:
-      '@tarojs/service': registry.npmjs.org/@tarojs/service/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.3
+      '@tarojs/service': registry.npmjs.org/@tarojs/service/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.9
     transitivePeerDependencies:
       - '@types/react'
       - '@types/webpack'
@@ -2581,15 +2643,15 @@ packages:
       - vue
     dev: false
 
-  registry.npmjs.org/@tarojs/plugin-platform-qq/3.6.0-canary.3_@types+react@18.0.25:
-    resolution: {integrity: sha512-3G5Dv2Qf0AUgVVf/I98As76HK8a6+Nq3KkS6YidaRw1Pge0P+I1BxTVz+fgpbibHAz7mfdAEH/FZ0tLwxwKmyg==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/plugin-platform-qq/-/plugin-platform-qq-3.6.0-canary.3.tgz}
-    id: registry.npmjs.org/@tarojs/plugin-platform-qq/3.6.0-canary.3
+  registry.npmjs.org/@tarojs/plugin-platform-qq/3.6.0-canary.9_@types+react@18.0.25:
+    resolution: {integrity: sha512-fJKjV/0Ed+K12ockHwHjgqjSh610/6B7snbj+xPvDHY3s3w/YR0cp96jgAMAXNUAXkYm0shBSxmizWJtNRQcXA==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/plugin-platform-qq/-/plugin-platform-qq-3.6.0-canary.9.tgz}
+    id: registry.npmjs.org/@tarojs/plugin-platform-qq/3.6.0-canary.9
     name: '@tarojs/plugin-platform-qq'
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     dependencies:
-      '@tarojs/plugin-platform-weapp': registry.npmjs.org/@tarojs/plugin-platform-weapp/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/service': registry.npmjs.org/@tarojs/service/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.3
+      '@tarojs/plugin-platform-weapp': registry.npmjs.org/@tarojs/plugin-platform-weapp/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/service': registry.npmjs.org/@tarojs/service/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.9
     transitivePeerDependencies:
       - '@types/react'
       - '@types/react-native'
@@ -2599,15 +2661,15 @@ packages:
       - vue
     dev: false
 
-  registry.npmjs.org/@tarojs/plugin-platform-swan/3.6.0-canary.3_@types+react@18.0.25:
-    resolution: {integrity: sha512-+3914sZVNsFZgvsuF3ZqqRCv8dDnq1iSRb0kczk915tDwBRaHdU1AWDR84vBaxpUgVSqi4yAwmayWzKH1iGzUA==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/plugin-platform-swan/-/plugin-platform-swan-3.6.0-canary.3.tgz}
-    id: registry.npmjs.org/@tarojs/plugin-platform-swan/3.6.0-canary.3
+  registry.npmjs.org/@tarojs/plugin-platform-swan/3.6.0-canary.9_@types+react@18.0.25:
+    resolution: {integrity: sha512-fpeEZVKEv15U2ustqLBq/SPCGH3FQyMwpNLe3Pt9ZH0QxW+2UDUdJ5bphr5pPlKj84FBW7eixkjMApuIDvmUlA==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/plugin-platform-swan/-/plugin-platform-swan-3.6.0-canary.9.tgz}
+    id: registry.npmjs.org/@tarojs/plugin-platform-swan/3.6.0-canary.9
     name: '@tarojs/plugin-platform-swan'
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     dependencies:
-      '@tarojs/components': registry.npmjs.org/@tarojs/components/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/service': registry.npmjs.org/@tarojs/service/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.3
+      '@tarojs/components': registry.npmjs.org/@tarojs/components/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/service': registry.npmjs.org/@tarojs/service/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.9
     transitivePeerDependencies:
       - '@types/react'
       - '@types/react-native'
@@ -2617,15 +2679,15 @@ packages:
       - vue
     dev: false
 
-  registry.npmjs.org/@tarojs/plugin-platform-tt/3.6.0-canary.3_@types+react@18.0.25:
-    resolution: {integrity: sha512-c1Yf/UKHmQs4SdA9TfKSN8jOwvRqN5EvO96ZI+G+vEnOnSoFHX8J6illtEpT/+0L+8ykFRrG03Qi20ChWaJDUw==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/plugin-platform-tt/-/plugin-platform-tt-3.6.0-canary.3.tgz}
-    id: registry.npmjs.org/@tarojs/plugin-platform-tt/3.6.0-canary.3
+  registry.npmjs.org/@tarojs/plugin-platform-tt/3.6.0-canary.9_@types+react@18.0.25:
+    resolution: {integrity: sha512-qFRcEOlGZKGXsukRAa0qCM57B3mx6LKBAawqkVjP5F7ZZkwHfzZ4lgU/ERTsFwVvHgJ6yfxCZx/A9UMILQQoJw==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/plugin-platform-tt/-/plugin-platform-tt-3.6.0-canary.9.tgz}
+    id: registry.npmjs.org/@tarojs/plugin-platform-tt/3.6.0-canary.9
     name: '@tarojs/plugin-platform-tt'
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     dependencies:
-      '@tarojs/components': registry.npmjs.org/@tarojs/components/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/service': registry.npmjs.org/@tarojs/service/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.3
+      '@tarojs/components': registry.npmjs.org/@tarojs/components/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/service': registry.npmjs.org/@tarojs/service/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.9
     transitivePeerDependencies:
       - '@types/react'
       - '@types/react-native'
@@ -2635,15 +2697,15 @@ packages:
       - vue
     dev: false
 
-  registry.npmjs.org/@tarojs/plugin-platform-weapp/3.6.0-canary.3_@types+react@18.0.25:
-    resolution: {integrity: sha512-ecxZEP8232+LnKQDvNxZO/aXQXTi6GDm6OdwEhMi8b3RXp6aXOs9jvi3rRv0hKZV3w6aiP09FHpz8FSh68b6vw==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/plugin-platform-weapp/-/plugin-platform-weapp-3.6.0-canary.3.tgz}
-    id: registry.npmjs.org/@tarojs/plugin-platform-weapp/3.6.0-canary.3
+  registry.npmjs.org/@tarojs/plugin-platform-weapp/3.6.0-canary.9_@types+react@18.0.25:
+    resolution: {integrity: sha512-a5MiYBDMfCDZW+AMa9xM/tEyRLAHcjoG5WjGUaNlZqb9pTlHR6OCTO/X7ahV/MI2joxE6ItNC43U5aLHhYOBzw==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/plugin-platform-weapp/-/plugin-platform-weapp-3.6.0-canary.9.tgz}
+    id: registry.npmjs.org/@tarojs/plugin-platform-weapp/3.6.0-canary.9
     name: '@tarojs/plugin-platform-weapp'
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     dependencies:
-      '@tarojs/components': registry.npmjs.org/@tarojs/components/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/service': registry.npmjs.org/@tarojs/service/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.3
+      '@tarojs/components': registry.npmjs.org/@tarojs/components/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/service': registry.npmjs.org/@tarojs/service/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.9
     transitivePeerDependencies:
       - '@types/react'
       - '@types/react-native'
@@ -2653,28 +2715,28 @@ packages:
       - vue
     dev: false
 
-  registry.npmjs.org/@tarojs/react/3.6.0-canary.3_react@18.2.0:
-    resolution: {integrity: sha512-ISvlRnUZlQw01rUwqs8t41KYg13DfswRATd+xUtzDeuNut8qVY1Nkj/HKb/QsofgYNJEB8h9o1DfEuDy0RdzYQ==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/react/-/react-3.6.0-canary.3.tgz}
-    id: registry.npmjs.org/@tarojs/react/3.6.0-canary.3
+  registry.npmjs.org/@tarojs/react/3.6.0-canary.9_react@18.2.0:
+    resolution: {integrity: sha512-LEG6GC/udj5H7fT5L7MMHKDW/RqD996OsA5e8xnxed08g9Tf53Fhab5OsNNJCqJD7QWmSwtIlLie4i2G5eRD5Q==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/react/-/react-3.6.0-canary.9.tgz}
+    id: registry.npmjs.org/@tarojs/react/3.6.0-canary.9
     name: '@tarojs/react'
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     dependencies:
-      '@tarojs/runtime': registry.npmjs.org/@tarojs/runtime/3.6.0-canary.3
-      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.3
+      '@tarojs/runtime': registry.npmjs.org/@tarojs/runtime/3.6.0-canary.9
+      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.9
       react-reconciler: registry.npmjs.org/react-reconciler/0.27.0_react@18.2.0
       scheduler: registry.npmjs.org/scheduler/0.20.2
     transitivePeerDependencies:
       - react
     dev: false
 
-  registry.npmjs.org/@tarojs/router/3.6.0-canary.3_@types+react@18.0.25:
-    resolution: {integrity: sha512-NxzHqiuRI6fpEktZSgZC4vfJzUVb27IFYyXoAvW4Ecmflokz65wS6X8MEWlPvFjYPXM+tMU95KWS5wQDYUHHLg==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/router/-/router-3.6.0-canary.3.tgz}
-    id: registry.npmjs.org/@tarojs/router/3.6.0-canary.3
+  registry.npmjs.org/@tarojs/router/3.6.0-canary.9_@types+react@18.0.25:
+    resolution: {integrity: sha512-sEQju78yGc67ndFymOsd7cmKPzrxfdIP08R4AgcUUfZerKh9SqIifc0Q2G46Zm3m6vkUkWZavEt1sEbzuiNlJg==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/router/-/router-3.6.0-canary.9.tgz}
+    id: registry.npmjs.org/@tarojs/router/3.6.0-canary.9
     name: '@tarojs/router'
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     dependencies:
-      '@tarojs/runtime': registry.npmjs.org/@tarojs/runtime/3.6.0-canary.3
-      '@tarojs/taro': registry.npmjs.org/@tarojs/taro/3.6.0-canary.3_@types+react@18.0.25
+      '@tarojs/runtime': registry.npmjs.org/@tarojs/runtime/3.6.0-canary.9
+      '@tarojs/taro': registry.npmjs.org/@tarojs/taro/3.6.0-canary.9_@types+react@18.0.25
       dingtalk-jsapi: registry.npmjs.org/dingtalk-jsapi/2.15.4
       history: registry.npmjs.org/history/5.3.0
       mobile-detect: registry.npmjs.org/mobile-detect/1.4.5
@@ -2686,34 +2748,34 @@ packages:
       - '@types/webpack-dev-server'
       - vue
 
-  registry.npmjs.org/@tarojs/runner-utils/3.6.0-canary.3:
-    resolution: {integrity: sha512-kS04hl1Bni+PGQriB3aK2GsQ71lgS7o6SJgDH7SnBREgzw//BwHeen1oSeQR8XTtMhAkuVMk54ooo/fnRkCF/w==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/runner-utils/-/runner-utils-3.6.0-canary.3.tgz}
+  registry.npmjs.org/@tarojs/runner-utils/3.6.0-canary.9:
+    resolution: {integrity: sha512-Zd6mWjlOE0ZYBT7nFaA9plmiQgiWb/Zvm/iHzK35J61WxehgjsqTii4GFpZLBX0B6dRGCY87B4PWoDB1B70e0Q==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/runner-utils/-/runner-utils-3.6.0-canary.9.tgz}
     name: '@tarojs/runner-utils'
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     dependencies:
-      '@tarojs/helper': registry.npmjs.org/@tarojs/helper/3.6.0-canary.3
+      '@tarojs/helper': registry.npmjs.org/@tarojs/helper/3.6.0-canary.9
       scss-bundle: registry.npmjs.org/scss-bundle/3.1.2
     transitivePeerDependencies:
       - supports-color
     dev: false
 
-  registry.npmjs.org/@tarojs/runtime/3.6.0-canary.3:
-    resolution: {integrity: sha512-tiGlSSmqvQmmTFDgqN1DUU7v5UQFPNP0qsDaoy7J80vEmioC2iqOTHwxMA20/2w1kfckCgLKOFQF90d8v1w1Ww==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/runtime/-/runtime-3.6.0-canary.3.tgz}
+  registry.npmjs.org/@tarojs/runtime/3.6.0-canary.9:
+    resolution: {integrity: sha512-BsSZz5GYb83eWfJPwngFuo8w3GYHzbUcJ8XQvociQW5CX9Ojo7HUksrnTsTbtUegp0zY5Kh5N/WJ65ZChf76LQ==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/runtime/-/runtime-3.6.0-canary.9.tgz}
     name: '@tarojs/runtime'
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     dependencies:
-      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.3
+      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.9
       lodash-es: registry.npmjs.org/lodash-es/4.17.21
 
-  registry.npmjs.org/@tarojs/service/3.6.0-canary.3_@types+react@18.0.25:
-    resolution: {integrity: sha512-LI1VL1DVFq34gqSMwOOyB2E5OR9m8+gCzZnowx/Jukgt0asDspwlEYGEp2EG2HUjHqT2fuZui6Lu8zS9fbaA1Q==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/service/-/service-3.6.0-canary.3.tgz}
-    id: registry.npmjs.org/@tarojs/service/3.6.0-canary.3
+  registry.npmjs.org/@tarojs/service/3.6.0-canary.9_@types+react@18.0.25:
+    resolution: {integrity: sha512-4R9cEw5kYgE/QveU3eeaIVGXpaBHu7e8suyTV38h9ZULZQ9YSxUG8IEj3NQdHdFY5K4+pukIQjA31dXqcQKT2Q==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/service/-/service-3.6.0-canary.9.tgz}
+    id: registry.npmjs.org/@tarojs/service/3.6.0-canary.9
     name: '@tarojs/service'
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     dependencies:
-      '@tarojs/helper': registry.npmjs.org/@tarojs/helper/3.6.0-canary.3
-      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.3
-      '@tarojs/taro': registry.npmjs.org/@tarojs/taro/3.6.0-canary.3_@types+react@18.0.25
+      '@tarojs/helper': registry.npmjs.org/@tarojs/helper/3.6.0-canary.9
+      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.9
+      '@tarojs/taro': registry.npmjs.org/@tarojs/taro/3.6.0-canary.9_@types+react@18.0.25
       fs-extra: registry.npmjs.org/fs-extra/8.1.0
       joi: registry.npmjs.org/joi/17.7.0
       lodash: registry.npmjs.org/lodash/4.17.21
@@ -2727,20 +2789,21 @@ packages:
       - supports-color
       - vue
 
-  registry.npmjs.org/@tarojs/shared/3.6.0-canary.3:
-    resolution: {integrity: sha512-2JwdL6U2/i6ECuYf0DixBZxVA1G17/68XxW/rPOb0Y+35sPpIXEZEcHzeamiCaRGogh4f/URTewlFDQGFKnNtA==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/shared/-/shared-3.6.0-canary.3.tgz}
+  registry.npmjs.org/@tarojs/shared/3.6.0-canary.9:
+    resolution: {integrity: sha512-RpDvv20PkFJ/6uxmfvm4093hkI8VcPYrbp3feNX8nkbQxpDAeO58cEQ2on0CR4lRpcnQYQRE4qJ4Ac6hSt9pxA==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/shared/-/shared-3.6.0-canary.9.tgz}
     name: '@tarojs/shared'
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
 
-  registry.npmjs.org/@tarojs/taro-h5/3.6.0-canary.3_@types+react@18.0.25:
-    resolution: {integrity: sha512-Egwis0qXF7FIgkw3juixZriR1mU9SCHguK+tGsXtCYGeLPi08slp5xBbwiCttccMPJsYm/2jNUTkH6yLKWjnpA==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/taro-h5/-/taro-h5-3.6.0-canary.3.tgz}
-    id: registry.npmjs.org/@tarojs/taro-h5/3.6.0-canary.3
+  registry.npmjs.org/@tarojs/taro-h5/3.6.0-canary.9_@types+react@18.0.25:
+    resolution: {integrity: sha512-83KdEvOYFlaaE87cKvzH8+c9bDG8wu0YJL0ynvg+Zsk8pDf+JpdPHpB+gfGLfnf56rHL+9EHZOvFeS1ryG7zHQ==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/taro-h5/-/taro-h5-3.6.0-canary.9.tgz}
+    id: registry.npmjs.org/@tarojs/taro-h5/3.6.0-canary.9
     name: '@tarojs/taro-h5'
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     dependencies:
-      '@tarojs/api': registry.npmjs.org/@tarojs/api/3.6.0-canary.3
-      '@tarojs/router': registry.npmjs.org/@tarojs/router/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/runtime': registry.npmjs.org/@tarojs/runtime/3.6.0-canary.3
+      '@tarojs/api': registry.npmjs.org/@tarojs/api/3.6.0-canary.9
+      '@tarojs/router': registry.npmjs.org/@tarojs/router/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/runtime': registry.npmjs.org/@tarojs/runtime/3.6.0-canary.9
+      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.9
       base64-js: registry.npmjs.org/base64-js/1.5.1
       jsonp-retry: registry.npmjs.org/jsonp-retry/1.0.3
       query-string: registry.npmjs.org/query-string/7.1.1
@@ -2751,14 +2814,14 @@ packages:
       - '@types/webpack-dev-server'
       - vue
 
-  registry.npmjs.org/@tarojs/taro-loader/3.6.0-canary.3_@types+react@18.0.25:
-    resolution: {integrity: sha512-5+hczgVjpNDUE1pVvvcMy++F5dz7cg8CWBoNoy+5tM73sTdQsLSXZJ0LPqfoMvmrskC/QTJDj5+9cH22NOb0rg==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/taro-loader/-/taro-loader-3.6.0-canary.3.tgz}
-    id: registry.npmjs.org/@tarojs/taro-loader/3.6.0-canary.3
+  registry.npmjs.org/@tarojs/taro-loader/3.6.0-canary.9_@types+react@18.0.25:
+    resolution: {integrity: sha512-fdLQ2F9rl+6XYpMhP9Nz66F/NvjEBzHzDnNz63gtJ6E4nfi1hhv9J4I1FaJYYp6KorKX7w/iKihn4AyRNnryug==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/taro-loader/-/taro-loader-3.6.0-canary.9.tgz}
+    id: registry.npmjs.org/@tarojs/taro-loader/3.6.0-canary.9
     name: '@tarojs/taro-loader'
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     dependencies:
-      '@tarojs/helper': registry.npmjs.org/@tarojs/helper/3.6.0-canary.3
-      '@tarojs/taro': registry.npmjs.org/@tarojs/taro/3.6.0-canary.3_@types+react@18.0.25
+      '@tarojs/helper': registry.npmjs.org/@tarojs/helper/3.6.0-canary.9
+      '@tarojs/taro': registry.npmjs.org/@tarojs/taro/3.6.0-canary.9_@types+react@18.0.25
       loader-utils: registry.npmjs.org/loader-utils/1.4.2
     transitivePeerDependencies:
       - '@types/react'
@@ -2768,11 +2831,11 @@ packages:
       - vue
     dev: false
 
-  registry.npmjs.org/@tarojs/taro/3.6.0-canary.3_@types+react@18.0.25:
-    resolution: {integrity: sha512-J0xIGceOUCzOg/Swgyhf9JsY7+f8WxFeesCc4/QQaOpts5wxdgPFcfaZfLbPQZls9emMnwCyNCG8+XRVXEHSiA==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/taro/-/taro-3.6.0-canary.3.tgz}
-    id: registry.npmjs.org/@tarojs/taro/3.6.0-canary.3
+  registry.npmjs.org/@tarojs/taro/3.6.0-canary.9_@types+react@18.0.25:
+    resolution: {integrity: sha512-CANZav6e2jg96Fx8DhCwu0UCL5UI3tuvsmFw9NFW4QP7h/WxJo6aBHCggXYswvCOUvXmsxVDP6onbqFXKEIFbw==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/taro/-/taro-3.6.0-canary.9.tgz}
+    id: registry.npmjs.org/@tarojs/taro/3.6.0-canary.9
     name: '@tarojs/taro'
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     peerDependencies:
       '@types/react': '*'
       '@types/webpack': '*'
@@ -2788,14 +2851,14 @@ packages:
       vue:
         optional: true
     dependencies:
-      '@tarojs/api': registry.npmjs.org/@tarojs/api/3.6.0-canary.3
-      '@tarojs/runtime': registry.npmjs.org/@tarojs/runtime/3.6.0-canary.3
+      '@tarojs/api': registry.npmjs.org/@tarojs/api/3.6.0-canary.9
+      '@tarojs/runtime': registry.npmjs.org/@tarojs/runtime/3.6.0-canary.9
       '@types/react': registry.npmjs.org/@types/react/18.0.25
 
-  registry.npmjs.org/@tarojs/taroize/3.6.0-canary.3:
-    resolution: {integrity: sha512-8lkzXSiHU8amkOjUUYBIyv7nopvm2AN65zUnwGDS5l+mkKB9dhUKWPalcf4zzLBirbk5kg9EeviLd8FRgIed3A==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/taroize/-/taroize-3.6.0-canary.3.tgz}
+  registry.npmjs.org/@tarojs/taroize/3.6.0-canary.9:
+    resolution: {integrity: sha512-OkE7WZ6nc+XCycx/ZxEAwjKyJmmBTqQw8CTD27lmUV+XKAidsQSoODnoF4ZA0kSMH1pncZEKE7U0Fu9LG+LAwg==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/taroize/-/taroize-3.6.0-canary.9.tgz}
     name: '@tarojs/taroize'
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     dependencies:
       '@babel/code-frame': registry.npmjs.org/@babel/code-frame/7.18.6
       babel-core: registry.npmjs.org/babel-core/6.26.3
@@ -2846,17 +2909,17 @@ packages:
       - supports-color
     dev: true
 
-  registry.npmjs.org/@tarojs/webpack5-prebundle/3.6.0-canary.3_oeehtautnhftnwoci5auoh7dgy:
-    resolution: {integrity: sha512-5Mw0HKO3PWaQFBLMiN6XGDABQTUWbp1Sjit/90Db6F2LFjOr2MvdLGNVXFlsYQs9ckxpHyySfC8Pw+tC6rg3jQ==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/webpack5-prebundle/-/webpack5-prebundle-3.6.0-canary.3.tgz}
-    id: registry.npmjs.org/@tarojs/webpack5-prebundle/3.6.0-canary.3
+  registry.npmjs.org/@tarojs/webpack5-prebundle/3.6.0-canary.9_oeehtautnhftnwoci5auoh7dgy:
+    resolution: {integrity: sha512-twnAfP1HXj4VV9dU3nJ4Xnyy6W8CmBpFyqrT/ftGWMf6reAcOqEOebYS32SBdMjJQsHPBH1YvFm0ibtP89OWiw==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/webpack5-prebundle/-/webpack5-prebundle-3.6.0-canary.9.tgz}
+    id: registry.npmjs.org/@tarojs/webpack5-prebundle/3.6.0-canary.9
     name: '@tarojs/webpack5-prebundle'
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     peerDependencies:
       webpack: ^5.69.0
     dependencies:
-      '@swc/core': registry.npmjs.org/@swc/core/1.3.19
-      '@tarojs/helper': registry.npmjs.org/@tarojs/helper/3.6.0-canary.3
-      '@tarojs/taro': registry.npmjs.org/@tarojs/taro/3.6.0-canary.3_@types+react@18.0.25
+      '@swc/core': registry.npmjs.org/@swc/core/1.3.24
+      '@tarojs/helper': registry.npmjs.org/@tarojs/helper/3.6.0-canary.9
+      '@tarojs/taro': registry.npmjs.org/@tarojs/taro/3.6.0-canary.9_@types+react@18.0.25
       enhanced-resolve: registry.npmjs.org/enhanced-resolve/5.10.0
       es-module-lexer: registry.npmjs.org/es-module-lexer/0.10.5
       esbuild: registry.npmjs.org/esbuild/0.14.54
@@ -2873,29 +2936,29 @@ packages:
       - vue
     dev: false
 
-  registry.npmjs.org/@tarojs/webpack5-runner/3.6.0-canary.3_62kq3nt6oqowpiaca5askg67nm:
-    resolution: {integrity: sha512-vm54VdGlEO9NOJnALo0K1a3SdKlL/MySQzxhPnMXc8Svo9oEnV+FuzbkB2tBDGsu5FE+gt9mcWDziADrP4YkUQ==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/webpack5-runner/-/webpack5-runner-3.6.0-canary.3.tgz}
-    id: registry.npmjs.org/@tarojs/webpack5-runner/3.6.0-canary.3
+  registry.npmjs.org/@tarojs/webpack5-runner/3.6.0-canary.9_62kq3nt6oqowpiaca5askg67nm:
+    resolution: {integrity: sha512-RDYUWAXc88T6GmDYotbPzTRsqrCd50qhpBH94H7y4FykZ9Re5UzPaiFCqCPxEiVh5cvjUrvQXEKOU7GfhYTZ9Q==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@tarojs/webpack5-runner/-/webpack5-runner-3.6.0-canary.9.tgz}
+    id: registry.npmjs.org/@tarojs/webpack5-runner/3.6.0-canary.9
     name: '@tarojs/webpack5-runner'
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     peerDependencies:
       postcss: ^8.4.18
       webpack: ^5.69.0
     dependencies:
       '@parcel/css': registry.npmjs.org/@parcel/css/1.14.0
-      '@tarojs/helper': registry.npmjs.org/@tarojs/helper/3.6.0-canary.3
-      '@tarojs/plugin-platform-alipay': registry.npmjs.org/@tarojs/plugin-platform-alipay/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/plugin-platform-jd': registry.npmjs.org/@tarojs/plugin-platform-jd/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/plugin-platform-qq': registry.npmjs.org/@tarojs/plugin-platform-qq/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/plugin-platform-swan': registry.npmjs.org/@tarojs/plugin-platform-swan/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/plugin-platform-tt': registry.npmjs.org/@tarojs/plugin-platform-tt/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/plugin-platform-weapp': registry.npmjs.org/@tarojs/plugin-platform-weapp/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/runner-utils': registry.npmjs.org/@tarojs/runner-utils/3.6.0-canary.3
-      '@tarojs/runtime': registry.npmjs.org/@tarojs/runtime/3.6.0-canary.3
-      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.3
-      '@tarojs/taro': registry.npmjs.org/@tarojs/taro/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/taro-loader': registry.npmjs.org/@tarojs/taro-loader/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/webpack5-prebundle': registry.npmjs.org/@tarojs/webpack5-prebundle/3.6.0-canary.3_oeehtautnhftnwoci5auoh7dgy
+      '@tarojs/helper': registry.npmjs.org/@tarojs/helper/3.6.0-canary.9
+      '@tarojs/plugin-platform-alipay': registry.npmjs.org/@tarojs/plugin-platform-alipay/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/plugin-platform-jd': registry.npmjs.org/@tarojs/plugin-platform-jd/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/plugin-platform-qq': registry.npmjs.org/@tarojs/plugin-platform-qq/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/plugin-platform-swan': registry.npmjs.org/@tarojs/plugin-platform-swan/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/plugin-platform-tt': registry.npmjs.org/@tarojs/plugin-platform-tt/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/plugin-platform-weapp': registry.npmjs.org/@tarojs/plugin-platform-weapp/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/runner-utils': registry.npmjs.org/@tarojs/runner-utils/3.6.0-canary.9
+      '@tarojs/runtime': registry.npmjs.org/@tarojs/runtime/3.6.0-canary.9
+      '@tarojs/shared': registry.npmjs.org/@tarojs/shared/3.6.0-canary.9
+      '@tarojs/taro': registry.npmjs.org/@tarojs/taro/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/taro-loader': registry.npmjs.org/@tarojs/taro-loader/3.6.0-canary.9_@types+react@18.0.25
+      '@tarojs/webpack5-prebundle': registry.npmjs.org/@tarojs/webpack5-prebundle/3.6.0-canary.9_oeehtautnhftnwoci5auoh7dgy
       acorn-walk: registry.npmjs.org/acorn-walk/8.2.0
       autoprefixer: registry.npmjs.org/autoprefixer/9.8.8
       babel-loader: registry.npmjs.org/babel-loader/8.2.1_npabyccmuonwo2rku4k53xo3hi
@@ -2921,11 +2984,11 @@ packages:
       miniprogram-simulate: registry.npmjs.org/miniprogram-simulate/1.5.7
       mkdirp: registry.npmjs.org/mkdirp/1.0.4
       ora: registry.npmjs.org/ora/4.0.3
-      postcss-html-transform: registry.npmjs.org/postcss-html-transform/3.6.0-canary.3
+      postcss-html-transform: registry.npmjs.org/postcss-html-transform/3.6.0-canary.9
       postcss-import: registry.npmjs.org/postcss-import/14.1.0
       postcss-loader: registry.npmjs.org/postcss-loader/7.0.1_webpack@5.75.0
-      postcss-plugin-constparse: registry.npmjs.org/postcss-plugin-constparse/3.6.0-canary.3
-      postcss-pxtransform: registry.npmjs.org/postcss-pxtransform/3.6.0-canary.3
+      postcss-plugin-constparse: registry.npmjs.org/postcss-plugin-constparse/3.6.0-canary.9
+      postcss-pxtransform: registry.npmjs.org/postcss-pxtransform/3.6.0-canary.9
       postcss-url: registry.npmjs.org/postcss-url/10.1.3
       regenerator-runtime: registry.npmjs.org/regenerator-runtime/0.11.1
       resolve: registry.npmjs.org/resolve/1.22.1
@@ -3300,7 +3363,7 @@ packages:
     version: 2.0.7
     dependencies:
       '@types/expect': registry.npmjs.org/@types/expect/1.20.4
-      '@types/node': registry.npmjs.org/@types/node/15.14.9
+      '@types/node': registry.npmjs.org/@types/node/18.11.9
     dev: true
 
   registry.npmjs.org/@types/webpack-env/1.18.0:
@@ -4700,25 +4763,25 @@ packages:
     dependencies:
       is-invalid-path: registry.npmjs.org/is-invalid-path/1.0.2
 
-  registry.npmjs.org/babel-plugin-transform-react-jsx-to-rn-stylesheet/3.6.0-canary.3:
-    resolution: {integrity: sha512-e6vQT8Xbm26MtVqC6cPDkrbBmVDVp8Jiz9yBXOuKoLx/dC/l6xXnXqRE3KkAxVNYOvxF2iCITSaX0AbE/KuQYQ==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/babel-plugin-transform-react-jsx-to-rn-stylesheet/-/babel-plugin-transform-react-jsx-to-rn-stylesheet-3.6.0-canary.3.tgz}
+  registry.npmjs.org/babel-plugin-transform-react-jsx-to-rn-stylesheet/3.6.0-canary.9:
+    resolution: {integrity: sha512-1S/Vl6XCimMOlQ7ns7d8zlLC0GFCvr79jI/g9w6+7NbCZUJXr38GbKhp41+fXMUZvvRFlqnLl2zls4PDBMiwcA==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/babel-plugin-transform-react-jsx-to-rn-stylesheet/-/babel-plugin-transform-react-jsx-to-rn-stylesheet-3.6.0-canary.9.tgz}
     name: babel-plugin-transform-react-jsx-to-rn-stylesheet
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     engines: {node: '>=12.0.0', npm: '>=6.0.0'}
     dependencies:
       camelize: registry.npmjs.org/camelize/1.0.1
-      taro-css-to-react-native: registry.npmjs.org/taro-css-to-react-native/3.6.0-canary.3
+      taro-css-to-react-native: registry.npmjs.org/taro-css-to-react-native/3.6.0-canary.9
 
-  registry.npmjs.org/babel-plugin-transform-taroapi/3.6.0-canary.3:
-    resolution: {integrity: sha512-KOes+rCjeQcDz4GjndBCSii5v6hYcx4GlNApIn7jAg8uqcWMR2GCqXZa5dlsfOT87d51NztFld7prkkhtE6cgQ==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/babel-plugin-transform-taroapi/-/babel-plugin-transform-taroapi-3.6.0-canary.3.tgz}
+  registry.npmjs.org/babel-plugin-transform-taroapi/3.6.0-canary.9:
+    resolution: {integrity: sha512-1vsEgu+l/rlUuVk/7MBhuiX73L37GTeiMYB7WqhHRrkjdHtUSgedOiWQbMYkvv4zgfm/Fc1GvoWiTUZJXPzJCw==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/babel-plugin-transform-taroapi/-/babel-plugin-transform-taroapi-3.6.0-canary.9.tgz}
     name: babel-plugin-transform-taroapi
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
 
-  registry.npmjs.org/babel-preset-taro/3.6.0-canary.3_onoxfpradg3rlmt5xxu6q6gmia:
-    resolution: {integrity: sha512-Ci3oeCfqTEhsmCrCNo+PZ7Z4Gkh28C8RTKCs2QKZE8xpOLAa6DH55sCH3qUig+zjkSC540HrJf9ZALnvSRzX4Q==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/babel-preset-taro/-/babel-preset-taro-3.6.0-canary.3.tgz}
-    id: registry.npmjs.org/babel-preset-taro/3.6.0-canary.3
+  registry.npmjs.org/babel-preset-taro/3.6.0-canary.9_onoxfpradg3rlmt5xxu6q6gmia:
+    resolution: {integrity: sha512-Ys1Re6zfFM36wbKPCy2NmVsTulXpLSlFEvhvV6/uaxRllq5WSTIshW0J54tCku85rxF9tMiiZx3VL9abU/fihQ==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/babel-preset-taro/-/babel-preset-taro-3.6.0-canary.9.tgz}
+    id: registry.npmjs.org/babel-preset-taro/3.6.0-canary.9
     name: babel-preset-taro
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     peerDependencies:
       '@babel/core': '*'
     dependencies:
@@ -4732,15 +4795,15 @@ packages:
       '@babel/preset-typescript': registry.npmjs.org/@babel/preset-typescript/7.18.6_@babel+core@7.20.2
       '@babel/runtime': registry.npmjs.org/@babel/runtime/7.20.1
       '@babel/runtime-corejs3': registry.npmjs.org/@babel/runtime-corejs3/7.20.1
-      '@tarojs/helper': registry.npmjs.org/@tarojs/helper/3.6.0-canary.3
-      '@tarojs/taro-h5': registry.npmjs.org/@tarojs/taro-h5/3.6.0-canary.3_@types+react@18.0.25
+      '@tarojs/helper': registry.npmjs.org/@tarojs/helper/3.6.0-canary.9
+      '@tarojs/taro-h5': registry.npmjs.org/@tarojs/taro-h5/3.6.0-canary.9_@types+react@18.0.25
       babel-plugin-dynamic-import-node: registry.npmjs.org/babel-plugin-dynamic-import-node/2.3.3
       babel-plugin-global-define: registry.npmjs.org/babel-plugin-global-define/1.0.3
       babel-plugin-jsx-attributes-array-to-object: registry.npmjs.org/babel-plugin-jsx-attributes-array-to-object/0.3.0
       babel-plugin-minify-dead-code-elimination: registry.npmjs.org/babel-plugin-minify-dead-code-elimination/0.5.2
       babel-plugin-transform-imports-api: registry.npmjs.org/babel-plugin-transform-imports-api/1.0.0
-      babel-plugin-transform-react-jsx-to-rn-stylesheet: registry.npmjs.org/babel-plugin-transform-react-jsx-to-rn-stylesheet/3.6.0-canary.3
-      babel-plugin-transform-taroapi: registry.npmjs.org/babel-plugin-transform-taroapi/3.6.0-canary.3
+      babel-plugin-transform-react-jsx-to-rn-stylesheet: registry.npmjs.org/babel-plugin-transform-react-jsx-to-rn-stylesheet/3.6.0-canary.9
+      babel-plugin-transform-taroapi: registry.npmjs.org/babel-plugin-transform-taroapi/3.6.0-canary.9
       core-js: registry.npmjs.org/core-js/3.26.1
       metro-react-native-babel-preset: registry.npmjs.org/metro-react-native-babel-preset/0.72.3_@babel+core@7.20.2
       react-refresh: registry.npmjs.org/react-refresh/0.11.0
@@ -6295,22 +6358,24 @@ packages:
     engines: {node: '>=12.22'}
     dev: true
 
-  registry.npmjs.org/css-loader/6.7.2_webpack@4.46.0:
-    resolution: {integrity: sha512-oqGbbVcBJkm8QwmnNzrFrWTnudnRZC+1eXikLJl0n4ljcfotgRifpg2a1lKy8jTrc4/d9A/ap1GFq1jDKG7J+Q==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/css-loader/-/css-loader-6.7.2.tgz}
-    id: registry.npmjs.org/css-loader/6.7.2
+  registry.npmjs.org/css-loader/5.2.7_webpack@4.46.0:
+    resolution: {integrity: sha512-Q7mOvpBNBG7YrVGMxRxcBJZFL75o+cH2abNASdibkj/fffYD8qWbInZrD0S9ccI6vZclF3DsHE7njGlLtaHbhg==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/css-loader/-/css-loader-5.2.7.tgz}
+    id: registry.npmjs.org/css-loader/5.2.7
     name: css-loader
-    version: 6.7.2
-    engines: {node: '>= 12.13.0'}
+    version: 5.2.7
+    engines: {node: '>= 10.13.0'}
     peerDependencies:
-      webpack: ^5.0.0
+      webpack: ^4.27.0 || ^5.0.0
     dependencies:
       icss-utils: registry.npmjs.org/icss-utils/5.1.0_postcss@8.4.19
+      loader-utils: registry.npmjs.org/loader-utils/2.0.4
       postcss: registry.npmjs.org/postcss/8.4.19
       postcss-modules-extract-imports: registry.npmjs.org/postcss-modules-extract-imports/3.0.0_postcss@8.4.19
       postcss-modules-local-by-default: registry.npmjs.org/postcss-modules-local-by-default/4.0.0_postcss@8.4.19
       postcss-modules-scope: registry.npmjs.org/postcss-modules-scope/3.0.0_postcss@8.4.19
       postcss-modules-values: registry.npmjs.org/postcss-modules-values/4.0.0_postcss@8.4.19
       postcss-value-parser: registry.npmjs.org/postcss-value-parser/4.2.0
+      schema-utils: registry.npmjs.org/schema-utils/3.1.1
       semver: registry.npmjs.org/semver/7.3.8
       webpack: registry.npmjs.org/webpack/4.46.0
     dev: false
@@ -7159,6 +7224,20 @@ packages:
       is-obj: registry.npmjs.org/is-obj/1.0.1
     dev: true
 
+  registry.npmjs.org/dotenv-expand/9.0.0:
+    resolution: {integrity: sha512-uW8Hrhp5ammm9x7kBLR6jDfujgaDarNA02tprvZdyrJ7MpdzD1KyrIHG4l+YoC2fJ2UcdFdNWNWIjt+sexBHJw==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/dotenv-expand/-/dotenv-expand-9.0.0.tgz}
+    name: dotenv-expand
+    version: 9.0.0
+    engines: {node: '>=12'}
+    dev: true
+
+  registry.npmjs.org/dotenv/16.0.3:
+    resolution: {integrity: sha512-7GO6HghkA5fYG9TYnNxi14/7K9f5occMlp3zXAuSxn7CKCxt9xbNWG7yF8hTCSUchlfWSe3uLmlPfigevRItzQ==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/dotenv/-/dotenv-16.0.3.tgz}
+    name: dotenv
+    version: 16.0.3
+    engines: {node: '>=12'}
+    dev: true
+
   registry.npmjs.org/download-git-repo/2.0.0:
     resolution: {integrity: sha512-al8ZOwpm/DvCd7XC8PupeuNlC2TrvsMxW3FOx1bCbHNBhP1lYjOn9KnPqnZ3o/jz1vxCC5NHGJA7LT+GYMLcHA==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/download-git-repo/-/download-git-repo-2.0.0.tgz}
     name: download-git-repo
@@ -7725,11 +7804,11 @@ packages:
       source-map: registry.npmjs.org/source-map/0.6.1
     dev: false
 
-  registry.npmjs.org/eslint-config-taro/3.6.0-canary.3_ustmoyzvfgos66cf2wvsplsloa:
-    resolution: {integrity: sha512-5bGqrCvTqLeNgrT0X7+w3YZCKX0yXyA68S0/bbYLmmFgAzHrPYgW2/F5Zm9ONqCQ9+KKUN5+AXnMVsuRc9mw1w==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/eslint-config-taro/-/eslint-config-taro-3.6.0-canary.3.tgz}
-    id: registry.npmjs.org/eslint-config-taro/3.6.0-canary.3
+  registry.npmjs.org/eslint-config-taro/3.6.0-canary.9_ustmoyzvfgos66cf2wvsplsloa:
+    resolution: {integrity: sha512-2a4g5Y+igesUTQA4AfJAgV3FNUDVASjWu8zKqwbaNil6newLHA0Ttr07C15J3qHYzdmT98I+32iyQ5B5U/R5LQ==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/eslint-config-taro/-/eslint-config-taro-3.6.0-canary.9.tgz}
+    id: registry.npmjs.org/eslint-config-taro/3.6.0-canary.9
     name: eslint-config-taro
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     peerDependencies:
       eslint: '*'
     dependencies:
@@ -11591,6 +11670,12 @@ packages:
       fs-monkey: registry.npmjs.org/fs-monkey/1.0.3
     dev: false
 
+  registry.npmjs.org/memoize-one/6.0.0:
+    resolution: {integrity: sha512-rkpe71W0N0c0Xz6QD0eJETuWAJGnJ9afsl1srmwPrI+yBCkge5EycXXbYRyvL29zZVUWQCY7InPRCv3GDXuZNw==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/memoize-one/-/memoize-one-6.0.0.tgz}
+    name: memoize-one
+    version: 6.0.0
+    dev: false
+
   registry.npmjs.org/memory-fs/0.4.1:
     resolution: {integrity: sha512-cda4JKCxReDXFXRqOHPQscuIYg1PvxbE2S2GP45rnwfEK+vZaXC8C1OFvdHIbgw0DLzowXGVoxLaAmlgRy14GQ==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/memory-fs/-/memory-fs-0.4.1.tgz}
     name: memory-fs
@@ -11620,7 +11705,7 @@ packages:
       decamelize: registry.npmjs.org/decamelize/1.2.0
       loud-rejection: registry.npmjs.org/loud-rejection/1.6.0
       map-obj: registry.npmjs.org/map-obj/1.0.1
-      minimist: registry.npmjs.org/minimist/1.2.5
+      minimist: registry.npmjs.org/minimist/1.2.7
       normalize-package-data: registry.npmjs.org/normalize-package-data/2.5.0
       object-assign: registry.npmjs.org/object-assign/4.1.1
       read-pkg-up: registry.npmjs.org/read-pkg-up/1.0.1
@@ -13317,10 +13402,10 @@ packages:
       postcss: registry.npmjs.org/postcss/8.4.19
     dev: false
 
-  registry.npmjs.org/postcss-html-transform/3.6.0-canary.3:
-    resolution: {integrity: sha512-an8t/38dwqcbx0Cahbcdv8u0TMDQbP1JfgXrzMh28BD8hzvqfJbEApEC3UrFGPD1ZRICkcvJckAw7/dOGNhoNQ==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/postcss-html-transform/-/postcss-html-transform-3.6.0-canary.3.tgz}
+  registry.npmjs.org/postcss-html-transform/3.6.0-canary.9:
+    resolution: {integrity: sha512-BLEM1TGrDZv7HBndTlX/pS8CZXpMqKs9vkfDafw3TN8zRx4Z8/WjNjBViwN4pUJ7qCAq0EWDC3dtrNRPkdmHyA==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/postcss-html-transform/-/postcss-html-transform-3.6.0-canary.9.tgz}
     name: postcss-html-transform
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     peerDependencies:
       postcss: ^8.4.18
     dev: false
@@ -13338,18 +13423,20 @@ packages:
       resolve: registry.npmjs.org/resolve/1.22.1
     dev: false
 
-  registry.npmjs.org/postcss-loader/7.0.1_webpack@4.46.0:
-    resolution: {integrity: sha512-VRviFEyYlLjctSM93gAZtcJJ/iSkPZ79zWbN/1fSH+NisBByEiVLqpdVDrPLVSi8DX0oJo12kL/GppTBdKVXiQ==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/postcss-loader/-/postcss-loader-7.0.1.tgz}
-    id: registry.npmjs.org/postcss-loader/7.0.1
+  registry.npmjs.org/postcss-loader/4.3.0_webpack@4.46.0:
+    resolution: {integrity: sha512-M/dSoIiNDOo8Rk0mUqoj4kpGq91gcxCfb9PoyZVdZ76/AuhxylHDYZblNE8o+EQ9AMSASeMFEKxZf5aU6wlx1Q==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/postcss-loader/-/postcss-loader-4.3.0.tgz}
+    id: registry.npmjs.org/postcss-loader/4.3.0
     name: postcss-loader
-    version: 7.0.1
-    engines: {node: '>= 14.15.0'}
+    version: 4.3.0
+    engines: {node: '>= 10.13.0'}
     peerDependencies:
       postcss: ^7.0.0 || ^8.0.1
-      webpack: ^5.0.0
+      webpack: ^4.0.0 || ^5.0.0
     dependencies:
       cosmiconfig: registry.npmjs.org/cosmiconfig/7.1.0
       klona: registry.npmjs.org/klona/2.0.5
+      loader-utils: registry.npmjs.org/loader-utils/2.0.4
+      schema-utils: registry.npmjs.org/schema-utils/3.1.1
       semver: registry.npmjs.org/semver/7.3.8
       webpack: registry.npmjs.org/webpack/4.46.0
     dev: false
@@ -13647,18 +13734,18 @@ packages:
       postcss-value-parser: registry.npmjs.org/postcss-value-parser/4.2.0
     dev: false
 
-  registry.npmjs.org/postcss-plugin-constparse/3.6.0-canary.3:
-    resolution: {integrity: sha512-b9igTZgbo5816ht2Qjwv4sgXECi/cQt/SW/QF9JYUPlbTgtWHyRDTwAnnm5thxXk+Q6jJLFWmoLBQoWzZKzWtw==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/postcss-plugin-constparse/-/postcss-plugin-constparse-3.6.0-canary.3.tgz}
+  registry.npmjs.org/postcss-plugin-constparse/3.6.0-canary.9:
+    resolution: {integrity: sha512-mw3j0AC317fq3glGPJF0KeE9CvsYs+EpS7GpRU6gl+y4i4GMPf9/1rqW6tSoPJMTV2McgWE+DK1tFT6AwqGv8w==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/postcss-plugin-constparse/-/postcss-plugin-constparse-3.6.0-canary.9.tgz}
     name: postcss-plugin-constparse
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     peerDependencies:
       postcss: ^8.4.18
     dev: false
 
-  registry.npmjs.org/postcss-pxtransform/3.6.0-canary.3:
-    resolution: {integrity: sha512-e9xsOOXZY93x+nHCz9Z0u4f4LpKWIFmajCVA7l386fCMCr5/Ed4RwndCYiAMznpphLf5Qe4KG+gsP+8vt8n6vQ==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/postcss-pxtransform/-/postcss-pxtransform-3.6.0-canary.3.tgz}
+  registry.npmjs.org/postcss-pxtransform/3.6.0-canary.9:
+    resolution: {integrity: sha512-kHwtj3VAGvOXHH0kdQzY9S5WqnwzFP1A5DuT/T8+sAeRQXiJfh0+Ir3jwexS+cUKP/sidN5pEfOZhP3M6XY8qA==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/postcss-pxtransform/-/postcss-pxtransform-3.6.0-canary.9.tgz}
     name: postcss-pxtransform
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     peerDependencies:
       postcss: ^8.4.18
     dev: false
@@ -14148,7 +14235,7 @@ packages:
     dependencies:
       deep-extend: registry.npmjs.org/deep-extend/0.6.0
       ini: registry.npmjs.org/ini/1.3.8
-      minimist: registry.npmjs.org/minimist/1.2.5
+      minimist: registry.npmjs.org/minimist/1.2.7
       strip-json-comments: registry.npmjs.org/strip-json-comments/2.0.1
     dev: true
 
@@ -16332,10 +16419,10 @@ packages:
       yallist: registry.npmjs.org/yallist/4.0.0
     dev: false
 
-  registry.npmjs.org/taro-css-to-react-native/3.6.0-canary.3:
-    resolution: {integrity: sha512-ZtI1J2H/eDmtFZg6FGqSvRBI7kTiLjU7ov25X6snYS/CvHvQ3E5jBazzNHzNIiDV9rNSSpttGEDqdBBynQXSOw==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/taro-css-to-react-native/-/taro-css-to-react-native-3.6.0-canary.3.tgz}
+  registry.npmjs.org/taro-css-to-react-native/3.6.0-canary.9:
+    resolution: {integrity: sha512-8HTficIwBERmG2Iy5bd6uosAXpmqUWDC/ePJa8zvJBqE8uUm+xTlMCtSPGsMO9vC72BzgTsNmfZBr30utPS6Rw==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/taro-css-to-react-native/-/taro-css-to-react-native-3.6.0-canary.9.tgz}
     name: taro-css-to-react-native
-    version: 3.6.0-canary.3
+    version: 3.6.0-canary.9
     dependencies:
       camelize: registry.npmjs.org/camelize/1.0.1
       css: registry.npmjs.org/css/3.0.0
@@ -16343,7 +16430,7 @@ packages:
       css-mediaquery: registry.npmjs.org/css-mediaquery/0.1.2
       postcss-value-parser: registry.npmjs.org/postcss-value-parser/3.3.1
 
-  registry.npmjs.org/taro-ui/3.1.0-beta.3_g3z2ud2oobp353ht4bdipssl5i:
+  registry.npmjs.org/taro-ui/3.1.0-beta.3_g3fnse2hpaxfwapkcns6qm2niy:
     resolution: {integrity: sha512-Tn9TdKvGwRNAO0RxOugxj8p7q5twZENkPd/aJeQP3Mx5pjg+HrBsTXD6rsjnR5z/GgoA9WWAoD9Du1H6ZyE71w==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/taro-ui/-/taro-ui-3.1.0-beta.3.tgz}
     id: registry.npmjs.org/taro-ui/3.1.0-beta.3
     name: taro-ui
@@ -16354,8 +16441,8 @@ packages:
       react: '>=16.13.0'
       react-dom: '>=16.13.0'
     dependencies:
-      '@tarojs/components': registry.npmjs.org/@tarojs/components/3.6.0-canary.3_@types+react@18.0.25
-      '@tarojs/react': registry.npmjs.org/@tarojs/react/3.6.0-canary.3_react@18.2.0
+      '@tarojs/components': registry.npmjs.org/@tarojs/components/3.6.0-canary.9_fan5qbzahqtxlm5dzefqlqx5ia
+      '@tarojs/react': registry.npmjs.org/@tarojs/react/3.6.0-canary.9_react@18.2.0
       classnames: registry.npmjs.org/classnames/2.3.2
       dayjs: registry.npmjs.org/dayjs/1.11.6
       lodash: registry.npmjs.org/lodash/4.17.21
