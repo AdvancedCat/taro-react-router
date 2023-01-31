@@ -32,6 +32,13 @@ export default function Index() {
 
           <View className="at-article__h2">DEMO</View>
           <AtListItem
+            title="Basic"
+            arrow="right"
+            onClick={() => {
+              handleNavigate('/pages/browser-router/index')
+            }}
+          />
+          <AtListItem
             title="BrowerRouter"
             arrow="right"
             onClick={() => {
@@ -108,7 +115,7 @@ export default function Index() {
                 onClick={() => {
                   handleNavigate('/pages/react-router-examples/background-location/index')
                 }}
-                disabled
+                // disabled
               />
             </AtList>
           </AtAccordion>

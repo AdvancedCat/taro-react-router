@@ -4,10 +4,10 @@ import {
   Routes,
   Route,
   Outlet,
-  Link,
   useMatch,
   useResolvedPath,
 } from "react-router-dom";
+import {Link} from '../../../components'
 
 export default function App() {
   return (

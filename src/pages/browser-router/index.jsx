@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
 import { View, Text, Button } from '@tarojs/components'
 import Taro from '@tarojs/taro'
-import { BrowserRouter, Routes, Route, Link, useParams, Outlet, NavLink } from 'react-router-dom'
+import { BrowserRouter, Routes, Route, useParams, Outlet } from 'react-router-dom'
+import { Link, NavLink } from '../../components'
 import './index.scss'
-
 
 import Home from '../../components/home'
 import View1 from '../../components/view1'
@@ -36,7 +36,7 @@ export default class Index extends Component {
     };
 
     return (
-      <BrowserRouter>
+      <BrowserRouter basename='/pages/browser-router/index'>
 
         <Button
           size="normal"
@@ -89,27 +89,27 @@ export default class Index extends Component {
         <View className="drawer-box">
           <View className="box-item">
             <NavLink
-              to="/pages/router/index/view1?a=1&b=2"
+              to="view1?a=1&b=2"
               style={({ isActive }) => (isActive ? activeStyle : undefined)}
             >
               view1
             </NavLink>
           </View>
           <View className="box-item">
-            <NavLink to="/pages/router/index/view2#a=3&b=4" style={({ isActive }) => (isActive ? activeStyle : undefined)}>view2</NavLink>
+            <NavLink to="view2#a=3&b=4" style={({ isActive }) => (isActive ? activeStyle : undefined)}>view2</NavLink>
           </View>
           <View className="box-item">
-            <NavLink to="/pages/router/index/2?a=1&b=2#a=3&b=4" style={({ isActive }) => (isActive ? activeStyle : undefined)}>view3</NavLink>
+            <NavLink to="view3?a=1&b=2#a=3&b=4" style={({ isActive }) => (isActive ? activeStyle : undefined)}>view3</NavLink>
           </View>
         </View>
 
         <View className="line"></View>
 
         <Routes>
-          <Route path="/pages/browser-router/index" element={<Home />}></Route>
-          <Route path="/pages/router/index/view1" element={<View1 />}></Route>
-          <Route path="/pages/router/index/view2" element={<View2 />}></Route>
-          <Route path="/pages/router/index/:id" element={<View3 />}></Route>
+          <Route path="" element={<Home />}></Route>
+          <Route path="view1" element={<View1 />}></Route>
+          <Route path="view2" element={<View2 />}></Route>
+          <Route path=":id" element={<View3 />}></Route>
         </Routes>
 
         <View className="drawer-box">

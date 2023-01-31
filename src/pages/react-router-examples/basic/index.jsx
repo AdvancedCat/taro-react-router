@@ -1,6 +1,7 @@
 import { View } from '@tarojs/components'
 import * as React from 'react'
-import { BrowserRouter, Routes, Route, Outlet, Link } from 'react-router-dom'
+import { BrowserRouter, Routes, Route, Outlet } from 'react-router-dom'
+import {Link} from '../../../components'
 import { AtDivider } from "taro-ui";
 import Taro from '@tarojs/taro'
 
@@ -56,7 +57,7 @@ function Layout() {
       <nav>
         <ul>
           <li>
-            <Link to="/">Home</Link>
+            <Link to="/" as="view">Home</Link>
           </li>
           <li>
             <Link to="/about">About</Link>
@@ -113,7 +114,7 @@ function NoMatch() {
       <h2>Nothing to see here!</h2>
       <p>当前链接：{window.location.href}</p>
       <p>
-        <Link to="/">Go to the home page</Link>
+        <Link to="/">Home Tab</Link>
       </p>
     </div>
   )

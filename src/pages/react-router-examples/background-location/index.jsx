@@ -1,5 +1,6 @@
 import * as React from 'react'
-import { BrowserRouter, Routes, Route, Outlet, Link, useLocation, useNavigate, useParams } from 'react-router-dom'
+import { BrowserRouter, Routes, Route, Outlet, useLocation, useNavigate, useParams } from 'react-router-dom'
+import {Link} from '../../../components'
 import { Dialog } from '@reach/dialog'
 import { AtNoticebar } from 'taro-ui'
 import '@reach/dialog/styles.css'

@@ -5,10 +5,10 @@ import {
   HashRouter,
   Routes,
   Route,
-  Link,
   useParams,
   Outlet
 } from "react-router-dom";
+import { Link } from '../../components'
 import "./index.scss";
 import { AtButton, AtToast, AtDivider, AtNoticebar } from "taro-ui";
 import BackToHome from "../../components/BackToHome";

@@ -1,5 +1,6 @@
 import * as React from 'react'
-import { BrowserRouter, Link, Route, Routes, useSearchParams } from 'react-router-dom'
+import { BrowserRouter, Route, Routes, useSearchParams } from 'react-router-dom'
+import {Link} from '../../../components'
 import Taro from '@tarojs/taro'
 import { View } from '@tarojs/components'
 

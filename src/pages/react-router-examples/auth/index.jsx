@@ -1,5 +1,6 @@
 import * as React from 'react'
-import { BrowserRouter, Routes, Route, Link, useNavigate, useLocation, Navigate, Outlet } from 'react-router-dom'
+import { BrowserRouter, Routes, Route, useNavigate, useLocation, Navigate, Outlet } from 'react-router-dom'
+import {Link} from '../../../components'
 
 const fakeAuthProvider = {
   isAuthenticated: false,
@@ -15,7 +16,7 @@ const fakeAuthProvider = {
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='pages/react-router-examples/auth/index'>
       <AuthProvider>
         <h1>Auth Example</h1>
 

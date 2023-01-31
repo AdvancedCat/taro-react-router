@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { View, Text } from '@tarojs/components'
-import { HashRouter, Routes, Route, Link, useParams, Outlet } from 'react-router-dom'
+import { HashRouter, Routes, Route, useParams, Outlet } from 'react-router-dom'
+import { Link } from '../../components'
 import './index.scss'
 import { AtButton, AtToast, AtDivider, AtNoticebar } from 'taro-ui'
 
@@ -19,7 +20,7 @@ export default function Index() {
       console.log('hashchange event fired!', window.location.href)
       // setToastText('hashchange event triggered!')
       // setOpenToast(true)
-      setCount(c => c+1)
+      setCount(c => c + 1)
     })
   }, [])
 

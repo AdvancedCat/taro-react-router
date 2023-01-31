@@ -1,7 +1,8 @@
 // 本示例因缺失 URLSearchParams 类的实现而失败
 
 import * as React from 'react'
-import { BrowserRouter, Routes, Route, Outlet, Link, useSearchParams, useParams } from 'react-router-dom'
+import { BrowserRouter, Routes, Route, Outlet, useSearchParams, useParams } from 'react-router-dom'
+import {Link} from '../../../components'
 
 let SNEAKERS = [
   {
@@ -68,7 +69,7 @@ let brands = [...new Set(SNEAKERS.map((sneaker) => sneaker.brand))]
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='pages/react-router-examples/custom-filter-link/index'>
       <h1>Custom Filter Link Example</h1>
 
       <p>

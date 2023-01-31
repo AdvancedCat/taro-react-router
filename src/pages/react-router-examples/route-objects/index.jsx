@@ -1,9 +1,10 @@
 import * as React from "react";
-import { BrowserRouter, Outlet, Link, useRoutes, useParams } from "react-router-dom";
+import { BrowserRouter, Outlet, useRoutes, useParams } from "react-router-dom";
+import {Link} from '../../../components'
 
 export default function App(){
   return(
-    <BrowserRouter>
+    <BrowserRouter basename="pages/react-router-examples/route-objects/index">
       <MyPage></MyPage>
     </BrowserRouter>
     )
